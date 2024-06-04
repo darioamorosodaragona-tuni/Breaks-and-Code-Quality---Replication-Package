@@ -1,5 +1,3 @@
 [submodule "Data"]
 	path = Data
-	url = git@gitlab-tuni-personal:forgetting-code/Data.git
-
-cd
+	url = https://gitlab.com/forgetting-code/Data
