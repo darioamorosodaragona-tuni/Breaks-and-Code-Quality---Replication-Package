@@ -1,0 +1,36 @@
+project_id,owner,repo,tf_count,coverage,dev_name,dev_file_count,dev_coverage
+6,apache,any23,1,48.70%,michele.mostarda,388,56.07
+14,apache,incubator-daffodil,2,41.98%,Mike Beckerle,538,56.04
+14,apache,incubator-daffodil,2,41.98%,Steve Lawrence,417,43.44
+30,apache,plc4x,1,30.73%,Christofer Dutz,5294,85.58
+38,apache,sling-feature-launcher-maven-plugin,1,27.27%,Robert Munteanu,9,81.82
+54,apache,sling-org-apache-sling-app-cms,1,2.26%,Dan Klco,531,99.81
+94,apache,sling-org-apache-sling-commons-metrics-rrd4j,1,28.57%,Robert Munteanu,5,71.43
+142,apache,sling-org-apache-sling-feature-cpconverter,3,47.97%,Simo Tripodi,50,33.78
+142,apache,sling-org-apache-sling-feature-cpconverter,3,47.97%,angela,40,27.03
+142,apache,sling-org-apache-sling-feature-cpconverter,3,47.97%,stripodi,32,21.62
+150,apache,sling-org-apache-sling-feature-launcher,2,28.57%,Karl Pauls,12,57.14
+150,apache,sling-org-apache-sling-feature-launcher,2,28.57%,Carsten Ziegeler,12,57.14
+174,apache,sling-org-apache-sling-installer-core,1,19.10%,Carsten Ziegeler,80,89.89
+206,apache,sling-org-apache-sling-jcr-resource,2,44.44%,Carsten Ziegeler,35,64.81
+206,apache,sling-org-apache-sling-jcr-resource,2,44.44%,angela,18,33.33
+222,apache,sling-org-apache-sling-karaf-distribution,0,0,,0,0
+230,apache,sling-org-apache-sling-launchpad-integration-tests,2,38.34%,Ian Boston,83,43.01
+230,apache,sling-org-apache-sling-launchpad-integration-tests,2,38.34%,Bertrand Delacretaz,67,34.72
+238,apache,sling-org-apache-sling-models-caconfig,1,5.00%,Stefan Seifert,20,100.00
+254,apache,sling-org-apache-sling-query,1,23.64%,Bertrand Delacretaz,108,98.18
+262,apache,sling-org-apache-sling-resourceaccesssecurity,2,0.00%,Mike Muller,10,90.91
+262,apache,sling-org-apache-sling-resourceaccesssecurity,2,0.00%,Konrad Windszus,9,81.82
+270,apache,sling-org-apache-sling-scripting-bundle-tracker,1,13.04%,Radu Cotescu,23,100.00
+286,apache,sling-org-apache-sling-scripting-sightly-compiler,1,2.05%,Radu Cotescu,144,98.63
+294,apache,sling-org-apache-sling-scripting-spi,1,0.00%,Radu Cotescu,8,100.00
+310,apache,sling-org-apache-sling-starter-content,1,20.00%,Eric Norman,24,80.00
+318,apache,sling-org-apache-sling-testing-clients,2,43.69%,Bertrand Delacretaz,51,49.51
+318,apache,sling-org-apache-sling-testing-clients,2,43.69%,Andrei Dulvac,35,33.98
+326,apache,sling-org-apache-sling-testing-rules,1,33.33%,Bertrand Delacretaz,45,83.33
+342,apache,sling-scriptingbundle-maven-plugin,1,9.68%,Radu Cotescu,59,95.16
+350,apache,struts,2,28.39%,Lukasz Lenart,1671,62.58
+350,apache,struts,2,28.39%,Donald J. Brown,723,27.08
+358,apache,cxf,3,32.05%,J. Daniel Kulp,3536,45.69
+358,apache,cxf,3,32.05%,Colm O hEigeartaigh,2556,33.03
+358,apache,cxf,3,32.05%,Sergey Beryozkin,1515,19.58

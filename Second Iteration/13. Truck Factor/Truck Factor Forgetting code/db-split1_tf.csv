@@ -1,0 +1,28 @@
+project_id,owner,repo,tf_count,coverage,dev_name,dev_file_count,dev_coverage
+18,apache,incubator-ratis,2,42.26%,Tsz Wo Nicholas Sze,488,72.62
+18,apache,incubator-ratis,2,42.26%,Jing Zhao,87,12.95
+26,apache,karaf,2,42.26%,Guillaume Nodet,818,53.43
+26,apache,karaf,2,42.26%,Jean-Baptiste Onofre,456,29.78
+34,apache,sling-archetype-parent,0,0,,0,0
+42,apache,sling-jspc-maven-plugin,2,38.89%,Karl Pauls,9,50.00
+42,apache,sling-jspc-maven-plugin,2,38.89%,Radu Cotescu,7,38.89
+50,apache,sling-maven-plugin,2,34.15%,Konrad Windszus,32,78.05
+50,apache,sling-maven-plugin,2,34.15%,Stefan Seifert,20,48.78
+74,apache,sling-org-apache-sling-commons-cache-api,0,0,,0,0
+82,apache,sling-org-apache-sling-commons-contentdetection,1,20.00%,Bertrand Delacretaz,9,90.00
+114,apache,sling-org-apache-sling-discovery-oak,1,9.68%,Stefan Egli,30,96.77
+122,apache,sling-org-apache-sling-distribution-journal-it,1,20.00%,tmaret,20,100.00
+138,apache,sling-org-apache-sling-feature-analyser,1,47.89%,Carsten Ziegeler,51,71.83
+162,apache,sling-org-apache-sling-graphql-core,1,45.92%,Bertrand Delacretaz,66,67.35
+186,apache,sling-org-apache-sling-installer-provider-jcr,1,9.52%,Carsten Ziegeler,19,90.48
+202,apache,sling-org-apache-sling-jcr-packageinit,1,0.00%,Dominik Suess,2,100.00
+234,apache,sling-org-apache-sling-launchpad-test-services,3,36.84%,Bertrand Delacretaz,42,55.26
+234,apache,sling-org-apache-sling-launchpad-test-services,3,36.84%,Eric Norman,31,40.79
+234,apache,sling-org-apache-sling-launchpad-test-services,3,36.84%,Justin Edelson,13,17.11
+242,apache,sling-org-apache-sling-models-validation-impl,1,0.00%,Konrad Windszus,8,100.00
+266,apache,sling-org-apache-sling-resourcemerger,1,43.48%,Carsten Ziegeler,18,78.26
+274,apache,sling-org-apache-sling-scripting-el-api,0,0,,0,0
+290,apache,sling-org-apache-sling-scripting-sightly-repl,1,0.00%,Radu Cotescu,6,100.00
+314,apache,sling-org-apache-sling-superimposing,1,0.00%,sseifert,10,100.00
+338,apache,sling-org-apache-sling-validation-test-services,1,0.00%,Konrad Windszus,3,100.00
+354,apache,commons-geometry,1,2.17%,Matt Juntunen,414,99.76

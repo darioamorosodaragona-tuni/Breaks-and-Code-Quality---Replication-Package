@@ -1,0 +1,46 @@
+project_id,owner,repo,tf_count,coverage,dev_name,dev_file_count,dev_coverage
+3,apache,daffodil,2,41.98%,Mike Beckerle,538,56.04
+3,apache,daffodil,2,41.98%,Steve Lawrence,417,43.44
+11,apache,gora,4,41.20%,Lewis John McGibbney,134,26.80
+11,apache,gora,4,41.20%,cihad guzel,111,22.20
+11,apache,gora,4,41.20%,Enis Soztutar,103,20.60
+11,apache,gora,4,41.20%,Kevin,68,13.60
+19,apache,incubator-seatunnel,6,49.53%,Jia Fan,444,16.19
+19,apache,incubator-seatunnel,6,49.53%,Zongwen Li,305,11.12
+19,apache,incubator-seatunnel,6,49.53%,Tyrantlucifer,276,10.07
+19,apache,incubator-seatunnel,6,49.53%,hailin0,275,10.03
+19,apache,incubator-seatunnel,6,49.53%,Eric,265,9.66
+19,apache,incubator-seatunnel,6,49.53%,ic4y,185,6.75
+27,apache,ofbiz-framework,3,44.42%,David E. Jones,908,41.33
+27,apache,ofbiz-framework,3,44.42%,Jacques Le Roux,782,35.59
+27,apache,ofbiz-framework,3,44.42%,Adrian Crum,307,13.97
+67,apache,sling-org-apache-sling-caconfig-impl,1,9.70%,Stefan Seifert,129,96.27
+83,apache,sling-org-apache-sling-commons-crypto,1,0.00%,Oliver Lietz,42,100.00
+123,apache,sling-org-apache-sling-distribution-journal-kafka,2,0.00%,Christian Schneider,14,77.78
+123,apache,sling-org-apache-sling-distribution-journal-kafka,2,0.00%,tmaret,10,55.56
+131,apache,sling-org-apache-sling-event-dea,1,0.00%,Carsten Ziegeler,7,100.00
+139,apache,sling-org-apache-sling-feature-apiregions,1,40.00%,David Bosschaert,6,60.00
+147,apache,sling-org-apache-sling-feature-inventoryprinter,1,20.00%,Simo Tripodi,5,100.00
+163,apache,sling-org-apache-sling-graphql-schema-aggregator,2,0.00%,Bertrand Delacretaz,18,90.00
+163,apache,sling-org-apache-sling-graphql-schema-aggregator,2,0.00%,Radu Cotescu,10,50.00
+179,apache,sling-org-apache-sling-installer-factory-packages,1,0.00%,Konrad Windszus,2,100.00
+187,apache,sling-org-apache-sling-javax-activation,2,0.00%,Sagar Miglani,2,66.67
+187,apache,sling-org-apache-sling-javax-activation,2,0.00%,Carsten Ziegeler,2,66.67
+195,apache,sling-org-apache-sling-jcr-jackrabbit-accessmanager,1,8.33%,Eric Norman,60,100.00
+259,apache,sling-org-apache-sling-resource-filter,1,0.00%,JE Bailey,27,100.00
+267,apache,sling-org-apache-sling-resourceresolver,2,46.43%,Carsten Ziegeler,71,63.39
+267,apache,sling-org-apache-sling-resourceresolver,2,46.43%,Tomasz Rekawek,13,11.61
+275,apache,sling-org-apache-sling-scripting-esx,1,0.00%,Bertrand Delacretaz,32,100.00
+291,apache,sling-org-apache-sling-scripting-sightly-runtime,1,20.83%,Radu Cotescu,23,95.83
+299,apache,sling-org-apache-sling-serviceusermapper,3,35.71%,Carsten Ziegeler,7,50.00
+299,apache,sling-org-apache-sling-serviceusermapper,3,35.71%,Marius Petria,5,35.71
+299,apache,sling-org-apache-sling-serviceusermapper,3,35.71%,Felix Meschberger,5,35.71
+307,apache,sling-org-apache-sling-settings,1,20.00%,Carsten Ziegeler,9,90.00
+323,apache,sling-org-apache-sling-testing-osgi-mock,2,29.45%,Stefan Seifert,124,76.07
+323,apache,sling-org-apache-sling-testing-osgi-mock,2,29.45%,sseifert,39,23.93
+331,apache,sling-org-apache-sling-tooling-support-install,2,33.33%,Konrad Windszus,1,33.33
+331,apache,sling-org-apache-sling-tooling-support-install,2,33.33%,Robert Munteanu,1,33.33
+339,apache,sling-org-apache-sling-xss,1,43.64%,Tatyana,33,60.00
+347,apache,sling-slingstart-maven-plugin,1,45.95%,Carsten Ziegeler,28,75.68
+355,apache,commons-numbers,2,18.88%,Alex Herbert,127,64.80
+355,apache,commons-numbers,2,18.88%,Gilles Sadowski,104,53.06

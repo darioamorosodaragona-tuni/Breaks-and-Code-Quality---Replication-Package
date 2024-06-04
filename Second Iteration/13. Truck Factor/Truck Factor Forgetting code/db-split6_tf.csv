@@ -1,0 +1,6 @@
+project_id,owner,repo,tf_count,coverage,dev_name,dev_file_count,dev_coverage
+7,apache,camel,4,46.01%,Claus Ibsen,11471,51.52
+7,apache,camel,4,46.01%,Guillaume Nodet,4136,18.57
+7,apache,camel,4,46.01%,Andrea Cosentino,1913,8.59
+7,apache,camel,4,46.01%,Willem Ning Jiang,1375,6.18
+15,apache,incubator-hop,1,34.98%,Matt Casters,3605,90.71

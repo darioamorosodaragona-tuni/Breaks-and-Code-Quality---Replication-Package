@@ -1,0 +1,57 @@
+project_id,owner,repo,tf_count,coverage,dev_name,dev_file_count,dev_coverage
+1,apache,JMeter,3,32.20%,Sebastian Bazley,825,50.12
+1,apache,JMeter,3,32.20%,Vladimir Sitnikov,710,43.13
+1,apache,JMeter,3,32.20%,Philippe Mouawad,530,32.20
+4,apache,dolphinscheduler,11,49.57%,Wenjun Ruan,696,22.94
+4,apache,dolphinscheduler,11,49.57%,songjianet,283,9.33
+4,apache,dolphinscheduler,11,49.57%,ligang,205,6.76
+4,apache,dolphinscheduler,11,49.57%,Eric Gao,183,6.03
+4,apache,dolphinscheduler,11,49.57%,Kirs,161,5.31
+4,apache,dolphinscheduler,11,49.57%,Kerwin,154,5.08
+4,apache,dolphinscheduler,11,49.57%,zixi0825,127,4.19
+4,apache,dolphinscheduler,11,49.57%,Amy0104,122,4.02
+4,apache,dolphinscheduler,11,49.57%,Hua Jiang,113,3.72
+4,apache,dolphinscheduler,11,49.57%,qiaozhanwei,105,3.46
+4,apache,dolphinscheduler,11,49.57%,JieguangZhou,105,3.46
+12,apache,groovy,5,43.88%,Paul King,2095,47.22
+12,apache,groovy,5,43.88%,Daniel Sun,737,16.61
+12,apache,groovy,5,43.88%,Cedric Champeau,631,14.22
+12,apache,groovy,5,43.88%,James Strachan,504,11.36
+12,apache,groovy,5,43.88%,Jochen Theodorou,326,7.35
+20,apache,incubator-tamaya,1,23.26%,anatole,196,91.16
+28,apache,ofbiz-plugins,2,49.47%,Jacopo Cappellato,483,42.97
+28,apache,ofbiz-plugins,2,49.47%,David E. Jones,177,15.75
+52,apache,sling-org-apache-sling-adapter-annotations,1,15.79%,Bertrand Delacretaz,16,84.21
+68,apache,sling-org-apache-sling-caconfig-integration-tests,1,0.00%,Stefan Seifert,9,100.00
+76,apache,sling-org-apache-sling-commons-cache-impl,0,0,,0,0
+84,apache,sling-org-apache-sling-commons-fsclassloader,2,41.67%,Radu Cotescu,6,50.00
+84,apache,sling-org-apache-sling-commons-fsclassloader,2,41.67%,Dan Klco,5,41.67
+92,apache,sling-org-apache-sling-commons-messaging-mail,1,0.00%,Oliver Lietz,18,100.00
+100,apache,sling-org-apache-sling-commons-threads,3,40.91%,Carsten Ziegeler,10,45.45
+100,apache,sling-org-apache-sling-commons-threads,3,40.91%,Felix Meschberger,5,22.73
+100,apache,sling-org-apache-sling-commons-threads,3,40.91%,Julian Sedding,4,18.18
+116,apache,sling-org-apache-sling-discovery-support,1,33.33%,Stefan Egli,2,66.67
+124,apache,sling-org-apache-sling-distribution-journal-messages,2,11.11%,Christian Schneider,23,85.19
+124,apache,sling-org-apache-sling-distribution-journal-messages,2,11.11%,tmaret,13,48.15
+148,apache,sling-org-apache-sling-feature-io,2,19.35%,David Bosschaert,21,67.74
+148,apache,sling-org-apache-sling-feature-io,2,19.35%,Carsten Ziegeler,18,58.06
+172,apache,sling-org-apache-sling-i18n,2,33.33%,Carsten Ziegeler,14,51.85
+172,apache,sling-org-apache-sling-i18n,2,33.33%,Radu Cotescu,13,48.15
+204,apache,sling-org-apache-sling-jcr-repoinit,3,41.18%,Bertrand Delacretaz,28,54.90
+204,apache,sling-org-apache-sling-jcr-repoinit,3,41.18%,Eric Norman,9,17.65
+204,apache,sling-org-apache-sling-jcr-repoinit,3,41.18%,Carsten Ziegeler,7,13.73
+212,apache,sling-org-apache-sling-jobs,1,0.00%,Ian Boston,34,100.00
+220,apache,sling-org-apache-sling-junit-teleporter,1,23.08%,Bertrand Delacretaz,11,84.62
+228,apache,sling-org-apache-sling-launchpad-base,2,20.51%,Felix Meschberger,25,64.10
+228,apache,sling-org-apache-sling-launchpad-base,2,20.51%,Carsten Ziegeler,24,61.54
+236,apache,sling-org-apache-sling-launchpad-testing,0,0,,0,0
+252,apache,sling-org-apache-sling-pipes,1,33.33%,Nicolas Peltier,101,93.52
+268,apache,sling-org-apache-sling-rewriter,2,28.89%,Carsten Ziegeler,36,80.00
+268,apache,sling-org-apache-sling-rewriter,2,28.89%,Felix Meschberger,16,35.56
+292,apache,sling-org-apache-sling-scripting-sightly-testing,1,20.00%,Radu Cotescu,15,100.00
+300,apache,sling-org-apache-sling-servlet-helpers,2,19.44%,Stefan Seifert,17,47.22
+300,apache,sling-org-apache-sling-servlet-helpers,2,19.44%,Bertrand Delacretaz,16,44.44
+308,apache,sling-org-apache-sling-sitemap,1,0.00%,Dirk Rudolph,68,100.00
+324,apache,sling-org-apache-sling-testing-paxexam,1,1.02%,Oliver Lietz,98,100.00
+340,apache,sling-parent,0,0,,0,0
+356,apache,commons-rng,1,35.38%,Alex Herbert,353,83.25

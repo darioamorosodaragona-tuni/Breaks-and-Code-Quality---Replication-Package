@@ -1,0 +1,48 @@
+project_id,owner,repo,tf_count,coverage,dev_name,dev_file_count,dev_coverage
+8,apache,commons-math,2,36.29%,Gilles Sadowski,587,50.00
+8,apache,commons-math,2,36.29%,Luc Maisonobe,537,45.74
+16,apache,incubator-iotdb,15,48.92%,Jackie Tien,803,16.93
+16,apache,incubator-iotdb,15,48.92%,Marcos_Zyk,339,7.15
+16,apache,incubator-iotdb,15,48.92%,Steve Yurong Su (宇荣),336,7.08
+16,apache,incubator-iotdb,15,48.92%,Xiangdong Huang,280,5.90
+16,apache,incubator-iotdb,15,48.92%,liuminghui233,246,5.19
+16,apache,incubator-iotdb,15,48.92%,Chen YZ,219,4.62
+16,apache,incubator-iotdb,15,48.92%,CRZbulabula,198,4.17
+16,apache,incubator-iotdb,15,48.92%,Liao Lanyu,189,3.98
+16,apache,incubator-iotdb,15,48.92%,Haonan,137,2.89
+16,apache,incubator-iotdb,15,48.92%,Caideyipi,130,2.74
+16,apache,incubator-iotdb,15,48.92%,ZhangHongYin,125,2.63
+16,apache,incubator-iotdb,15,48.92%,Zhang.Jinrui,118,2.49
+16,apache,incubator-iotdb,15,48.92%,Liu Xuxin,112,2.36
+16,apache,incubator-iotdb,15,48.92%,Itami Sho,110,2.32
+16,apache,incubator-iotdb,15,48.92%,Jialin Qiao,108,2.28
+24,apache,jackrabbit-filevault,1,49.14%,Tobias Bocanegra,513,73.50
+56,apache,sling-org-apache-sling-auth-form,2,35.00%,Eric Norman,11,55.00
+56,apache,sling-org-apache-sling-auth-form,2,35.00%,Felix Meschberger,8,40.00
+88,apache,sling-org-apache-sling-commons-log,2,26.98%,Chetan Mehrotra,36,57.14
+88,apache,sling-org-apache-sling-commons-log,2,26.98%,Felix Meschberger,31,49.21
+128,apache,sling-org-apache-sling-engine,2,26.73%,Carsten Ziegeler,81,80.20
+128,apache,sling-org-apache-sling-engine,2,26.73%,Felix Meschberger,47,46.53
+136,apache,sling-org-apache-sling-extensions-webconsolesecurityprovider,1,33.33%,Carsten Ziegeler,5,83.33
+144,apache,sling-org-apache-sling-feature-extension-apiregions,1,11.96%,Carsten Ziegeler,89,96.74
+184,apache,sling-org-apache-sling-installer-provider-file,1,14.29%,Carsten Ziegeler,7,100.00
+192,apache,sling-org-apache-sling-jcr-contentparser,1,4.00%,Stefan Seifert,25,100.00
+200,apache,sling-org-apache-sling-jcr-maintenance,1,0.00%,Dan Klco,18,100.00
+208,apache,sling-org-apache-sling-jcr-webconsole,1,25.00%,Konrad Windszus,3,75.00
+240,apache,sling-org-apache-sling-models-integration-tests,2,24.10%,Justin Edelson,56,67.47
+240,apache,sling-org-apache-sling-models-integration-tests,2,24.10%,Stefan Seifert,37,44.58
+256,apache,sling-org-apache-sling-repoinit-parser,1,48.28%,Bertrand Delacretaz,34,58.62
+280,apache,sling-org-apache-sling-scripting-jsp,2,7.32%,Carsten Ziegeler,117,95.12
+280,apache,sling-org-apache-sling-scripting-jsp,2,7.32%,Felix Meschberger,106,86.18
+288,apache,sling-org-apache-sling-scripting-sightly-js-provider,1,0.00%,Radu Cotescu,27,100.00
+304,apache,sling-org-apache-sling-servlets-post,3,37.66%,Carsten Ziegeler,40,51.95
+304,apache,sling-org-apache-sling-servlets-post,3,37.66%,Felix Meschberger,30,38.96
+304,apache,sling-org-apache-sling-servlets-post,3,37.66%,Ian Boston,13,16.88
+328,apache,sling-org-apache-sling-testing-sling-mock,2,0.73%,Stefan Seifert,114,83.21
+328,apache,sling-org-apache-sling-testing-sling-mock,2,0.73%,sseifert,90,65.69
+336,apache,sling-org-apache-sling-validation-core,1,4.88%,Konrad Windszus,40,97.56
+344,apache,sling-site,2,19.89%,Bertrand Delacretaz,5947,41.21
+344,apache,sling-site,2,19.89%,Robert Munteanu,5793,40.14
+368,apache,servicecomb-pack,3,47.01%,Lei Zhang,223,39.26
+368,apache,servicecomb-pack,3,47.01%,Willem Jiang,199,35.04
+368,apache,servicecomb-pack,3,47.01%,seanyinx,79,13.91
