@@ -17,8 +17,10 @@ def send_email_notification(content):
     mail = smtplib.SMTP('smtp.gmail.com', 587)
     mail.ehlo()
     mail.starttls()
-    mail.login('[GMAIL EMAIL TO SEDN THE EMAIL]', '[GMAIL TOKEN]')
-    mail.sendmail('[FROM]', '[TO]', content)
+
+    mail.login('[MAIL USED TO SEND]', '[GMAIL TOKEN]')
+    mail.sendmail('[FROM]]', '[TO]', content)
+
     mail.close()
 
 
