@@ -1,0 +1,21 @@
+project_id,owner,repo,git_user_id,login,name,email,commit_tot,issue_assigned,issue_created,issue_mentioned,tot_issue_comments,tot_pr_comments,tot_commit_comments
+18,apache,incubator-ratis,[88],bharatviswa504,Bharat Viswanadham,bharat@apache.org,3,0,0,0,0,0,0
+18,apache,incubator-ratis,[81],dengziming,dengziming,dengziming1993@gmail.com,1,0,0,0,0,0,0
+18,apache,incubator-ratis,[70 75],maobaolong,maobaolong,307499405@qq.com,12,0,0,0,0,0,0
+26,apache,karaf,[106],grgrzybek,Grzegorz Grzybek,gr.grzybek@gmail.com,149,0,0,0,0,0,2
+42,apache,sling-jspc-maven-plugin,[114],karlpauls,Karl Pauls,pauls@apache.org,10,0,0,0,0,0,0
+138,apache,sling-org-apache-sling-feature-analyser,[141],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,6,0,0,0,0,0,0
+138,apache,sling-org-apache-sling-feature-analyser,[134],karlpauls,Karl Pauls,pauls@apache.org,16,0,0,0,0,0,1
+162,apache,sling-org-apache-sling-graphql-core,[142 151],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,130,0,0,0,0,0,1
+162,apache,sling-org-apache-sling-graphql-core,[148],tyge68,Thierry Ygé,thierry.yge@gmail.com,2,0,0,0,0,0,1
+354,apache,commons-geometry,[55],XenoAmess,XenoAmess,xenoamess@gmail.com,11,0,0,0,0,0,0
+18,apache,incubator-ratis,[88],bharatviswa504,Bharat Viswanadham,bharat@apache.org,3,0,0,0,0,0,0
+18,apache,incubator-ratis,[81],dengziming,dengziming,dengziming1993@gmail.com,1,0,0,0,0,0,0
+18,apache,incubator-ratis,[70 75],maobaolong,maobaolong,307499405@qq.com,12,0,0,0,0,0,0
+26,apache,karaf,[106],grgrzybek,Grzegorz Grzybek,gr.grzybek@gmail.com,149,0,0,0,0,0,2
+42,apache,sling-jspc-maven-plugin,[114],karlpauls,Karl Pauls,pauls@apache.org,10,0,0,0,0,0,0
+138,apache,sling-org-apache-sling-feature-analyser,[141],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,6,0,0,0,0,0,0
+138,apache,sling-org-apache-sling-feature-analyser,[134],karlpauls,Karl Pauls,pauls@apache.org,16,0,0,0,0,0,1
+162,apache,sling-org-apache-sling-graphql-core,[142 151],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,130,0,0,0,0,17,1
+162,apache,sling-org-apache-sling-graphql-core,[148],tyge68,Thierry Ygé,thierry.yge@gmail.com,2,0,0,0,0,3,1
+354,apache,commons-geometry,[55],XenoAmess,XenoAmess,xenoamess@gmail.com,11,0,0,0,0,1,0

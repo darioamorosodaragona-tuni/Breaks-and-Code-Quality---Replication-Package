@@ -1,0 +1,59 @@
+project_id,owner,repo,git_user_id,login,name,email,commit_tot,issue_assigned,issue_created,issue_mentioned,tot_issue_comments,tot_pr_comments,tot_commit_comments
+6,apache,any23,[45 46],lewismc,Lewis John McGibbney,lewis.mcgibbney@gmail.com,273,0,0,0,0,100,3
+30,apache,plc4x,[123 129 157],chrisdutz,Christofer Dutz,christofer.dutz@c-ware.de,3357,22,19,30,149,156,9
+30,apache,plc4x,[165],hutcheb,Ben Hutcheson,ben.hutche@gmail.com,392,7,0,12,17,43,5
+30,apache,plc4x,[161],ottobackwards,Otto Fowler,ottobackwards@gmail.com,24,2,0,0,1,30,1
+30,apache,plc4x,[156 175 179],splatch,Łukasz Dywicki,luke@code-house.org,57,18,6,14,31,32,0
+38,apache,sling-feature-launcher-maven-plugin,[191],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,5,0,0,0,0,0,0
+142,apache,sling-org-apache-sling-feature-cpconverter,[204 206],andreituicu,Andrei Tuicu,andrei.tuicu@gmail.com,4,0,0,0,0,0,0
+142,apache,sling-org-apache-sling-feature-cpconverter,[210 213],cziegeler,Carsten Ziegeler,cziegeler@apache.org,64,0,0,0,0,0,1
+142,apache,sling-org-apache-sling-feature-cpconverter,[214],karlpauls,Karl Pauls,pauls@apache.org,62,0,0,0,0,0,0
+142,apache,sling-org-apache-sling-feature-cpconverter,[223],niekraaijmakers,Niek Raaijmakers,niekraaijmakers@gmail.com,5,0,0,0,0,0,0
+150,apache,sling-org-apache-sling-feature-launcher,[233],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,9,0,0,0,0,0,0
+150,apache,sling-org-apache-sling-feature-launcher,[225],cziegeler,Carsten Ziegeler,cziegeler@apache.org,67,0,0,0,0,0,1
+150,apache,sling-org-apache-sling-feature-launcher,[229 237],karlpauls,Karl Pauls,pauls@apache.org,58,0,0,0,0,0,0
+150,apache,sling-org-apache-sling-feature-launcher,[235],rombert,Robert Munteanu,robert.munteanu@gmail.com,21,0,0,0,0,0,1
+150,apache,sling-org-apache-sling-feature-launcher,[232 234],stbischof,Stefan Bischof,stbischof@bipolis.org,8,0,0,0,0,0,1
+174,apache,sling-org-apache-sling-installer-core,[241],cziegeler,Carsten Ziegeler,cziegeler@apache.org,291,0,0,0,0,0,0
+206,apache,sling-org-apache-sling-jcr-resource,[248],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,15,0,0,0,0,0,0
+206,apache,sling-org-apache-sling-jcr-resource,[245],cziegeler,Carsten Ziegeler,cziegeler@apache.org,405,0,0,0,0,0,0
+230,apache,sling-org-apache-sling-launchpad-integration-tests,[252],cziegeler,Carsten Ziegeler,cziegeler@apache.org,64,0,0,0,0,0,0
+302,apache,sling-org-apache-sling-servlets-annotations-it,[268],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,9,0,0,0,0,0,0
+318,apache,sling-org-apache-sling-testing-clients,[283],andreituicu,Andrei Tuicu,andrei.tuicu@gmail.com,6,0,0,0,0,0,0
+318,apache,sling-org-apache-sling-testing-clients,[277],cziegeler,Carsten Ziegeler,cziegeler@apache.org,2,0,0,0,0,0,0
+342,apache,sling-scriptingbundle-maven-plugin,[293],karlpauls,Karl Pauls,pauls@apache.org,14,0,0,0,0,0,0
+358,apache,cxf,[88],CarlosPanarello,Carlos Eduardo Panarello,carlospanarello@gmail.com,1,0,0,0,0,0,0
+358,apache,cxf,[57 60],andymc12,Andy McCright,j.andrew.mccright@gmail.com,151,0,0,0,0,76,0
+358,apache,cxf,[87],bnazare,Bruno Gonçalves,bnazare@gmail.com,1,0,0,0,0,0,0
+358,apache,cxf,[ 62 108],jgallimore,Jonathan Gallimore,jon@jrg.me.uk,2,0,0,0,0,3,0
+358,apache,cxf,[84],jimma,jimma,ema@apache.org,151,0,0,0,0,46,0
+358,apache,cxf,[85],ropalka,Richard Opálka,opalka.richard@gmail.com,2,0,0,0,0,2,0
+6,apache,any23,[45 46],lewismc,Lewis John McGibbney,lewis.mcgibbney@gmail.com,273,0,0,0,0,100,3
+30,apache,plc4x,[123 129 157],chrisdutz,Christofer Dutz,christofer.dutz@c-ware.de,3357,22,19,30,149,156,9
+30,apache,plc4x,[165],hutcheb,Ben Hutcheson,ben.hutche@gmail.com,392,7,0,12,17,43,5
+30,apache,plc4x,[161],ottobackwards,Otto Fowler,ottobackwards@gmail.com,24,2,0,0,0,0,1
+30,apache,plc4x,[156 175 179],splatch,Łukasz Dywicki,luke@code-house.org,57,18,6,14,0,0,0
+38,apache,sling-feature-launcher-maven-plugin,[191],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,5,0,0,0,0,0,0
+142,apache,sling-org-apache-sling-feature-cpconverter,[204 206],andreituicu,Andrei Tuicu,andrei.tuicu@gmail.com,4,0,0,0,0,0,0
+142,apache,sling-org-apache-sling-feature-cpconverter,[210 213],cziegeler,Carsten Ziegeler,cziegeler@apache.org,64,0,0,0,0,0,1
+142,apache,sling-org-apache-sling-feature-cpconverter,[214],karlpauls,Karl Pauls,pauls@apache.org,62,0,0,0,0,0,0
+142,apache,sling-org-apache-sling-feature-cpconverter,[223],niekraaijmakers,Niek Raaijmakers,niekraaijmakers@gmail.com,5,0,0,0,0,0,0
+150,apache,sling-org-apache-sling-feature-launcher,[233],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,9,0,0,0,0,0,0
+150,apache,sling-org-apache-sling-feature-launcher,[225],cziegeler,Carsten Ziegeler,cziegeler@apache.org,67,0,0,0,0,0,1
+150,apache,sling-org-apache-sling-feature-launcher,[229 237],karlpauls,Karl Pauls,pauls@apache.org,58,0,0,0,0,0,0
+150,apache,sling-org-apache-sling-feature-launcher,[235],rombert,Robert Munteanu,robert.munteanu@gmail.com,21,0,0,0,0,0,1
+150,apache,sling-org-apache-sling-feature-launcher,[232 234],stbischof,Stefan Bischof,stbischof@bipolis.org,8,0,0,0,0,0,1
+174,apache,sling-org-apache-sling-installer-core,[241],cziegeler,Carsten Ziegeler,cziegeler@apache.org,291,0,0,0,0,0,0
+206,apache,sling-org-apache-sling-jcr-resource,[248],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,15,0,0,0,0,0,0
+206,apache,sling-org-apache-sling-jcr-resource,[245],cziegeler,Carsten Ziegeler,cziegeler@apache.org,405,0,0,0,0,0,0
+230,apache,sling-org-apache-sling-launchpad-integration-tests,[252],cziegeler,Carsten Ziegeler,cziegeler@apache.org,64,0,0,0,0,0,0
+302,apache,sling-org-apache-sling-servlets-annotations-it,[268],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,9,0,0,0,0,0,0
+318,apache,sling-org-apache-sling-testing-clients,[283],andreituicu,Andrei Tuicu,andrei.tuicu@gmail.com,6,0,0,0,0,2,0
+318,apache,sling-org-apache-sling-testing-clients,[277],cziegeler,Carsten Ziegeler,cziegeler@apache.org,2,0,0,0,0,1,0
+342,apache,sling-scriptingbundle-maven-plugin,[293],karlpauls,Karl Pauls,pauls@apache.org,14,0,0,0,0,2,0
+358,apache,cxf,[88],CarlosPanarello,Carlos Eduardo Panarello,carlospanarello@gmail.com,1,0,0,0,0,0,0
+358,apache,cxf,[57 60],andymc12,Andy McCright,j.andrew.mccright@gmail.com,151,0,0,0,0,76,0
+358,apache,cxf,[87],bnazare,Bruno Gonçalves,bnazare@gmail.com,1,0,0,0,0,0,0
+358,apache,cxf,[ 62 108],jgallimore,Jonathan Gallimore,jon@jrg.me.uk,2,0,0,0,0,3,0
+358,apache,cxf,[84],jimma,jimma,ema@apache.org,151,0,0,0,0,46,0
+358,apache,cxf,[85],ropalka,Richard Opálka,opalka.richard@gmail.com,2,0,0,0,0,2,0

@@ -1,0 +1,154 @@
+project_id,owner,repo,git_user_id,login,name,email,commit_tot,issue_assigned,issue_created,issue_mentioned,tot_issue_comments,tot_pr_comments,tot_commit_comments
+7,apache,camel,[16],ank19,Andreas Klug,andreas.klug2@de.bosch.com,4,0,0,0,0,6,0
+7,apache,camel,[ 2 17 52],davsclaus,Claus Ibsen,claus.ibsen@gmail.com,24725,0,0,0,0,5913,2
+7,apache,camel,[68],grgrzybek,Grzegorz Grzybek,gr.grzybek@gmail.com,140,0,0,0,0,20,0
+7,apache,camel,[39],hokutor,Hokutor,hwcamel@huawei.com,36,0,0,0,0,14,0
+7,apache,camel,[60 66 70],johnpoth,John Poth,poth.john@gmail.com,231,0,0,0,0,45,0
+7,apache,camel,[24],kayloos,Claus Skou Nielsen,kalusn@gmail.com,1,0,0,0,0,0,0
+7,apache,camel,[3],oscerd,Andrea Cosentino,ancosen@gmail.com,17713,0,0,0,0,9393,0
+7,apache,camel,[59],vagpap,Vangelis Papanastasatos,vagpap@gmail.com,1,0,0,0,0,1,0
+15,apache,incubator-hop,[361 367],HiromuHota,Hiromu Hota,hiromu.hota@gmail.com,36,0,0,0,0,0,0
+15,apache,incubator-hop,[383],jballment,John Ballment,john.ballment@bizcubed.com.au,6,0,0,0,0,0,0
+15,apache,incubator-hop,[359 360 381],mattcasters,Matt Casters,mattcasters@gmail.com,1641,51,34,13,0,0,1
+15,apache,incubator-hop,[374],mfgaspar,Miguel Gaspar,miguel.ferreira.gaspar@gmail.com,1,0,0,0,0,0,0
+15,apache,incubator-hop,[365 373],mookkiah,Mahendran Mookkiah,mahendran.mookkiah@gmail.com,32,0,0,0,0,0,0
+15,apache,incubator-hop,[386],sramazzina,Sergio Ramazzina,sergio.ramazzina@serasoft.it,385,102,72,11,0,0,0
+31,apache,shiro,[421],bdemers,Brian Demers,brian.demers@gmail.com,238,1,0,2,7,240,2
+31,apache,shiro,[423],bmarwell,Benjamin Marwell,bmarwell@apache.org,118,4,4,2,0,0,3
+55,apache,sling-org-apache-sling-auth-core,[428 430],cziegeler,Carsten Ziegeler,cziegeler@apache.org,113,0,0,0,0,0,3
+143,apache,sling-org-apache-sling-feature-diff,[457],cziegeler,Carsten Ziegeler,cziegeler@apache.org,3,0,0,0,0,0,0
+151,apache,sling-org-apache-sling-feature-modelconverter,[461],cziegeler,Carsten Ziegeler,cziegeler@apache.org,31,0,0,0,0,0,0
+175,apache,sling-org-apache-sling-installer-factory-configuration,[463],cziegeler,Carsten Ziegeler,cziegeler@apache.org,109,0,0,0,0,0,0
+239,apache,sling-org-apache-sling-models-impl,[493],cziegeler,Carsten Ziegeler,cziegeler@apache.org,9,0,0,0,0,0,0
+303,apache,sling-org-apache-sling-servlets-get,[503],cziegeler,Carsten Ziegeler,cziegeler@apache.org,103,0,0,0,0,0,0
+303,apache,sling-org-apache-sling-servlets-get,[505],karlpauls,Karl Pauls,pauls@apache.org,20,0,0,0,0,0,0
+351,apache,submarine,[514],pingsutw,Kevin Su,pingsutw@apache.org,99,1,0,1,0,0,0
+359,apache,hadoop-ozone,[298],ByronHsu,ByronHsu,byronhsu1230@gmail.com,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[103 185 126],ChenSammi,Sammi Chen,sammichen@apache.org,162,0,0,0,0,0,0
+359,apache,hadoop-ozone,[200],HorizonNet,Jan Hentschel,jan.hentschel@ultratendency.com,4,0,0,0,0,0,0
+359,apache,hadoop-ozone,[340],JyotinderSingh,Jyotinder Singh,jyotindrsingh@gmail.com,36,0,0,0,0,0,0
+359,apache,hadoop-ozone,[254],Tartarus0zm,zhangmang,zhangmang1@163.com,2,0,0,0,0,0,0
+359,apache,hadoop-ozone,[338],WeisonWei,Weison Wei,weixx3@126.com,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[147 170 199],ayushtkn,Ayush Saxena,ayushsaxena@apache.org,13,0,0,0,0,0,0
+359,apache,hadoop-ozone,[ 87 113 115 119 133 146 161 178 191 188],bharatviswa504,Bharat Viswanadham,bharat@apache.org,399,0,0,0,0,0,1
+359,apache,hadoop-ozone,[291],cku328,Neo Yang,neoyang@apache.org,20,0,0,0,0,0,0
+359,apache,hadoop-ozone,[90],craigcondit,Craig Condit,github@craigcondit.com,2,0,0,0,0,0,0
+359,apache,hadoop-ozone,[101 107 196],dineshchitlangia,Dinesh Chitlangia,dineshchitlangia@gmail.com,31,0,0,0,0,0,0
+359,apache,hadoop-ozone,[273],harindersb,Harinder Singh Bedi,harindersingh861@gmail.com,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[255],jsoft88,Jorge Cespedes,jorgitouni@gmail.com,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[336],jwminton,Jasen Minton,jasen.minton@gmail.com,4,0,0,0,0,0,0
+359,apache,hadoop-ozone,[327],kerneltime,Ritesh H Shukla,kerneltime@gmail.com,42,0,0,0,0,0,0
+359,apache,hadoop-ozone,[245 266],maobaolong,maobaolong,307499405@qq.com,58,0,0,0,0,0,0
+359,apache,hadoop-ozone,[110],mohammadjkhan,Mohammad J. Khan,mohammad.j.khan@target.com,2,0,0,0,0,0,0
+359,apache,hadoop-ozone,[296],mookkiah,Mahendran Mookkiah,mahendran.mookkiah@gmail.com,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[304],plsmaop,Ivan Chen,allenivan@gmail.com,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[227 316],rakeshadr,Rakesh Radhakrishnan,rakeshr@apache.org,57,0,0,0,0,0,0
+359,apache,hadoop-ozone,[225 318 332],sadanand48,Sadanand Shenoy,sadanand.shenoy4898@gmail.com,97,0,0,0,0,0,0
+359,apache,hadoop-ozone,[114 156 159 166 168 193],swagle,Siddharth,swagle@apache.org,42,0,0,0,0,0,0
+359,apache,hadoop-ozone,[240],umamaheswararao,Uma Maheswara Rao G,umamahesh@apache.org,66,0,0,0,0,0,2
+359,apache,hadoop-ozone,[259],vinayakumarb,Vinayakumar B,vinayakumarb@apache.org,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[116 173 192 219],vivekratnavel,Vivek Ratnavel Subramanian,vivekratnavel90@gmail.com,86,0,0,0,0,0,0
+359,apache,hadoop-ozone,[252],wuweiwei95,Wu Weiwei,wuweiwei95@outlook.com,2,0,0,0,0,0,0
+359,apache,hadoop-ozone,[355],xBis7,Christos Bisias,christosbis@gmail.com,34,0,0,0,0,0,0
+7,apache,camel,[16],ank19,Andreas Klug,andreas.klug2@de.bosch.com,4,0,0,0,0,6,0
+7,apache,camel,[ 2 17 52],davsclaus,Claus Ibsen,claus.ibsen@gmail.com,24725,0,0,0,0,5913,2
+7,apache,camel,[68],grgrzybek,Grzegorz Grzybek,gr.grzybek@gmail.com,140,0,0,0,0,20,0
+7,apache,camel,[39],hokutor,Hokutor,hwcamel@huawei.com,36,0,0,0,0,14,0
+7,apache,camel,[60 66 70],johnpoth,John Poth,poth.john@gmail.com,231,0,0,0,0,45,0
+7,apache,camel,[24],kayloos,Claus Skou Nielsen,kalusn@gmail.com,1,0,0,0,0,0,0
+7,apache,camel,[3],oscerd,Andrea Cosentino,ancosen@gmail.com,17713,0,0,0,0,9393,0
+7,apache,camel,[59],vagpap,Vangelis Papanastasatos,vagpap@gmail.com,1,0,0,0,0,1,0
+15,apache,incubator-hop,[361 367],HiromuHota,Hiromu Hota,hiromu.hota@gmail.com,36,0,0,0,0,0,0
+15,apache,incubator-hop,[383],jballment,John Ballment,john.ballment@bizcubed.com.au,6,0,0,0,0,0,0
+15,apache,incubator-hop,[359 360 381],mattcasters,Matt Casters,mattcasters@gmail.com,1641,51,34,13,0,0,1
+15,apache,incubator-hop,[374],mfgaspar,Miguel Gaspar,miguel.ferreira.gaspar@gmail.com,1,0,0,0,0,0,0
+15,apache,incubator-hop,[365 373],mookkiah,Mahendran Mookkiah,mahendran.mookkiah@gmail.com,32,0,0,0,0,0,0
+15,apache,incubator-hop,[386],sramazzina,Sergio Ramazzina,sergio.ramazzina@serasoft.it,385,102,72,11,0,0,0
+31,apache,shiro,[421],bdemers,Brian Demers,brian.demers@gmail.com,238,1,0,2,7,240,2
+31,apache,shiro,[423],bmarwell,Benjamin Marwell,bmarwell@apache.org,118,4,4,2,4,120,3
+55,apache,sling-org-apache-sling-auth-core,[428 430],cziegeler,Carsten Ziegeler,cziegeler@apache.org,113,0,0,0,0,6,3
+143,apache,sling-org-apache-sling-feature-diff,[457],cziegeler,Carsten Ziegeler,cziegeler@apache.org,3,0,0,0,0,0,0
+151,apache,sling-org-apache-sling-feature-modelconverter,[461],cziegeler,Carsten Ziegeler,cziegeler@apache.org,31,0,0,0,0,3,0
+175,apache,sling-org-apache-sling-installer-factory-configuration,[463],cziegeler,Carsten Ziegeler,cziegeler@apache.org,109,0,0,0,0,6,0
+239,apache,sling-org-apache-sling-models-impl,[493],cziegeler,Carsten Ziegeler,cziegeler@apache.org,9,0,0,0,0,4,0
+303,apache,sling-org-apache-sling-servlets-get,[503],cziegeler,Carsten Ziegeler,cziegeler@apache.org,103,0,0,0,0,5,0
+303,apache,sling-org-apache-sling-servlets-get,[505],karlpauls,Karl Pauls,pauls@apache.org,20,0,0,0,0,0,0
+351,apache,submarine,[514],pingsutw,Kevin Su,pingsutw@apache.org,99,1,0,1,6,494,0
+359,apache,hadoop-ozone,[298],ByronHsu,ByronHsu,byronhsu1230@gmail.com,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[103 185 126],ChenSammi,Sammi Chen,sammichen@apache.org,162,0,0,0,0,0,0
+359,apache,hadoop-ozone,[200],HorizonNet,Jan Hentschel,jan.hentschel@ultratendency.com,4,0,0,0,0,0,0
+359,apache,hadoop-ozone,[340],JyotinderSingh,Jyotinder Singh,jyotindrsingh@gmail.com,36,0,0,0,0,0,0
+359,apache,hadoop-ozone,[254],Tartarus0zm,zhangmang,zhangmang1@163.com,2,0,0,0,0,0,0
+359,apache,hadoop-ozone,[338],WeisonWei,Weison Wei,weixx3@126.com,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[147 170 199],ayushtkn,Ayush Saxena,ayushsaxena@apache.org,13,0,0,0,0,0,0
+359,apache,hadoop-ozone,[ 87 113 115 119 133 146 161 178 191 188],bharatviswa504,Bharat Viswanadham,bharat@apache.org,399,0,0,0,0,0,1
+359,apache,hadoop-ozone,[291],cku328,Neo Yang,neoyang@apache.org,20,0,0,0,0,0,0
+359,apache,hadoop-ozone,[90],craigcondit,Craig Condit,github@craigcondit.com,2,0,0,0,0,0,0
+359,apache,hadoop-ozone,[101 107 196],dineshchitlangia,Dinesh Chitlangia,dineshchitlangia@gmail.com,31,0,0,0,0,0,0
+359,apache,hadoop-ozone,[273],harindersb,Harinder Singh Bedi,harindersingh861@gmail.com,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[255],jsoft88,Jorge Cespedes,jorgitouni@gmail.com,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[336],jwminton,Jasen Minton,jasen.minton@gmail.com,4,0,0,0,0,0,0
+359,apache,hadoop-ozone,[327],kerneltime,Ritesh H Shukla,kerneltime@gmail.com,42,0,0,0,0,0,0
+359,apache,hadoop-ozone,[245 266],maobaolong,maobaolong,307499405@qq.com,58,0,0,0,0,0,0
+359,apache,hadoop-ozone,[110],mohammadjkhan,Mohammad J. Khan,mohammad.j.khan@target.com,2,0,0,0,0,0,0
+359,apache,hadoop-ozone,[296],mookkiah,Mahendran Mookkiah,mahendran.mookkiah@gmail.com,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[304],plsmaop,Ivan Chen,allenivan@gmail.com,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[227 316],rakeshadr,Rakesh Radhakrishnan,rakeshr@apache.org,57,0,0,0,0,0,0
+359,apache,hadoop-ozone,[225 318 332],sadanand48,Sadanand Shenoy,sadanand.shenoy4898@gmail.com,97,0,0,0,0,0,0
+359,apache,hadoop-ozone,[114 156 159 166 168 193],swagle,Siddharth,swagle@apache.org,42,0,0,0,0,0,0
+359,apache,hadoop-ozone,[240],umamaheswararao,Uma Maheswara Rao G,umamahesh@apache.org,66,0,0,0,0,0,2
+359,apache,hadoop-ozone,[259],vinayakumarb,Vinayakumar B,vinayakumarb@apache.org,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[116 173 192 219],vivekratnavel,Vivek Ratnavel Subramanian,vivekratnavel90@gmail.com,86,0,0,0,0,0,0
+359,apache,hadoop-ozone,[252],wuweiwei95,Wu Weiwei,wuweiwei95@outlook.com,2,0,0,0,0,0,0
+359,apache,hadoop-ozone,[355],xBis7,Christos Bisias,christosbis@gmail.com,34,0,0,0,0,0,0
+7,apache,camel,[16],ank19,Andreas Klug,andreas.klug2@de.bosch.com,4,0,0,0,0,6,0
+7,apache,camel,[ 2 17 52],davsclaus,Claus Ibsen,claus.ibsen@gmail.com,24725,0,0,0,0,5913,2
+7,apache,camel,[68],grgrzybek,Grzegorz Grzybek,gr.grzybek@gmail.com,140,0,0,0,0,20,0
+7,apache,camel,[39],hokutor,Hokutor,hwcamel@huawei.com,36,0,0,0,0,14,0
+7,apache,camel,[60 66 70],johnpoth,John Poth,poth.john@gmail.com,231,0,0,0,0,45,0
+7,apache,camel,[24],kayloos,Claus Skou Nielsen,kalusn@gmail.com,1,0,0,0,0,0,0
+7,apache,camel,[3],oscerd,Andrea Cosentino,ancosen@gmail.com,17713,0,0,0,0,9393,0
+7,apache,camel,[59],vagpap,Vangelis Papanastasatos,vagpap@gmail.com,1,0,0,0,0,1,0
+15,apache,incubator-hop,[361 367],HiromuHota,Hiromu Hota,hiromu.hota@gmail.com,36,0,0,0,0,0,0
+15,apache,incubator-hop,[383],jballment,John Ballment,john.ballment@bizcubed.com.au,6,0,0,0,0,0,0
+15,apache,incubator-hop,[359 360 381],mattcasters,Matt Casters,mattcasters@gmail.com,1641,51,34,13,0,0,1
+15,apache,incubator-hop,[374],mfgaspar,Miguel Gaspar,miguel.ferreira.gaspar@gmail.com,1,0,0,0,0,0,0
+15,apache,incubator-hop,[365 373],mookkiah,Mahendran Mookkiah,mahendran.mookkiah@gmail.com,32,0,0,0,0,0,0
+15,apache,incubator-hop,[386],sramazzina,Sergio Ramazzina,sergio.ramazzina@serasoft.it,385,102,72,11,0,0,0
+31,apache,shiro,[421],bdemers,Brian Demers,brian.demers@gmail.com,238,1,0,2,7,240,2
+31,apache,shiro,[423],bmarwell,Benjamin Marwell,bmarwell@apache.org,118,4,4,2,0,0,3
+55,apache,sling-org-apache-sling-auth-core,[428 430],cziegeler,Carsten Ziegeler,cziegeler@apache.org,113,0,0,0,0,0,3
+143,apache,sling-org-apache-sling-feature-diff,[457],cziegeler,Carsten Ziegeler,cziegeler@apache.org,3,0,0,0,0,0,0
+151,apache,sling-org-apache-sling-feature-modelconverter,[461],cziegeler,Carsten Ziegeler,cziegeler@apache.org,31,0,0,0,0,3,0
+175,apache,sling-org-apache-sling-installer-factory-configuration,[463],cziegeler,Carsten Ziegeler,cziegeler@apache.org,109,0,0,0,0,6,0
+239,apache,sling-org-apache-sling-models-impl,[493],cziegeler,Carsten Ziegeler,cziegeler@apache.org,9,0,0,0,0,4,0
+303,apache,sling-org-apache-sling-servlets-get,[503],cziegeler,Carsten Ziegeler,cziegeler@apache.org,103,0,0,0,0,5,0
+303,apache,sling-org-apache-sling-servlets-get,[505],karlpauls,Karl Pauls,pauls@apache.org,20,0,0,0,0,0,0
+351,apache,submarine,[514],pingsutw,Kevin Su,pingsutw@apache.org,99,1,0,1,6,494,0
+359,apache,hadoop-ozone,[298],ByronHsu,ByronHsu,byronhsu1230@gmail.com,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[103 185 126],ChenSammi,Sammi Chen,sammichen@apache.org,162,0,0,0,0,0,0
+359,apache,hadoop-ozone,[200],HorizonNet,Jan Hentschel,jan.hentschel@ultratendency.com,4,0,0,0,0,0,0
+359,apache,hadoop-ozone,[340],JyotinderSingh,Jyotinder Singh,jyotindrsingh@gmail.com,36,0,0,0,0,0,0
+359,apache,hadoop-ozone,[254],Tartarus0zm,zhangmang,zhangmang1@163.com,2,0,0,0,0,0,0
+359,apache,hadoop-ozone,[338],WeisonWei,Weison Wei,weixx3@126.com,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[147 170 199],ayushtkn,Ayush Saxena,ayushsaxena@apache.org,13,0,0,0,0,0,0
+359,apache,hadoop-ozone,[ 87 113 115 119 133 146 161 178 191 188],bharatviswa504,Bharat Viswanadham,bharat@apache.org,399,0,0,0,0,0,1
+359,apache,hadoop-ozone,[291],cku328,Neo Yang,neoyang@apache.org,20,0,0,0,0,0,0
+359,apache,hadoop-ozone,[90],craigcondit,Craig Condit,github@craigcondit.com,2,0,0,0,0,0,0
+359,apache,hadoop-ozone,[101 107 196],dineshchitlangia,Dinesh Chitlangia,dineshchitlangia@gmail.com,31,0,0,0,0,0,0
+359,apache,hadoop-ozone,[273],harindersb,Harinder Singh Bedi,harindersingh861@gmail.com,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[255],jsoft88,Jorge Cespedes,jorgitouni@gmail.com,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[336],jwminton,Jasen Minton,jasen.minton@gmail.com,4,0,0,0,0,0,0
+359,apache,hadoop-ozone,[327],kerneltime,Ritesh H Shukla,kerneltime@gmail.com,42,0,0,0,0,0,0
+359,apache,hadoop-ozone,[245 266],maobaolong,maobaolong,307499405@qq.com,58,0,0,0,0,0,0
+359,apache,hadoop-ozone,[110],mohammadjkhan,Mohammad J. Khan,mohammad.j.khan@target.com,2,0,0,0,0,0,0
+359,apache,hadoop-ozone,[296],mookkiah,Mahendran Mookkiah,mahendran.mookkiah@gmail.com,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[304],plsmaop,Ivan Chen,allenivan@gmail.com,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[227 316],rakeshadr,Rakesh Radhakrishnan,rakeshr@apache.org,57,0,0,0,0,0,0
+359,apache,hadoop-ozone,[225 318 332],sadanand48,Sadanand Shenoy,sadanand.shenoy4898@gmail.com,97,0,0,0,0,0,0
+359,apache,hadoop-ozone,[114 156 159 166 168 193],swagle,Siddharth,swagle@apache.org,42,0,0,0,0,0,0
+359,apache,hadoop-ozone,[240],umamaheswararao,Uma Maheswara Rao G,umamahesh@apache.org,66,0,0,0,0,0,2
+359,apache,hadoop-ozone,[259],vinayakumarb,Vinayakumar B,vinayakumarb@apache.org,1,0,0,0,0,0,0
+359,apache,hadoop-ozone,[116 173 192 219],vivekratnavel,Vivek Ratnavel Subramanian,vivekratnavel90@gmail.com,86,0,0,0,0,0,0
+359,apache,hadoop-ozone,[252],wuweiwei95,Wu Weiwei,wuweiwei95@outlook.com,2,0,0,0,0,0,0
+359,apache,hadoop-ozone,[355],xBis7,Christos Bisias,christosbis@gmail.com,34,0,0,0,0,0,0

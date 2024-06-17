@@ -1,0 +1,101 @@
+project_id,owner,repo,git_user_id,login,name,email,commit_tot,issue_assigned,issue_created,issue_mentioned,tot_issue_comments,tot_pr_comments,tot_commit_comments
+16,apache,incubator-iotdb,[137],GLBB,lvshuang,unbeatableglbb@gmail.com,2,0,0,0,0,0,0
+16,apache,incubator-iotdb,[12 50],HTHou,Haonan,hhaonan@outlook.com,750,5,23,16,0,0,2
+16,apache,incubator-iotdb,[201],JackieTien97,Jackie Tien,jackietien97@gmail.com,565,5,3,5,0,0,0
+16,apache,incubator-iotdb,[156],SteveYurongSu,Steve Yurong Su,rong@apache.org,244,8,10,8,0,0,0
+16,apache,incubator-iotdb,[72],WeiZhong94,Wei Zhong,weizhong0618@gmail.com,4,0,0,0,0,0,0
+16,apache,incubator-iotdb,[211],ahuazhu,zhengwen zhu,ahuazhu@gmail.com,3,0,2,0,0,0,0
+16,apache,incubator-iotdb,[116],asdf2014,Benedict Jin,asdf2014@apache.org,61,0,0,0,0,0,4
+16,apache,incubator-iotdb,[162],bigreybear,ZhaoXin,x_zhao16@163.com,58,0,0,1,0,0,0
+16,apache,incubator-iotdb,[177],chengjianyun,Jianyun Cheng,chengjianyun@outlook.com,7,0,5,1,0,0,0
+16,apache,incubator-iotdb,[138],chenjun40,chenjun40,chenjunatgg@gmail.com,1,0,1,0,0,0,0
+16,apache,incubator-iotdb,[95],chrisdutz,Christofer Dutz,christofer.dutz@c-ware.de,28,0,3,0,0,0,0
+16,apache,incubator-iotdb,[181],cornmonster,Zhong Wang,wangzhong.zw@alibaba-inc.com,33,0,0,0,0,0,0
+16,apache,incubator-iotdb,[155],dongzl,Zonglei Dong,dongzonglei@apache.org,3,0,1,0,0,0,0
+16,apache,incubator-iotdb,[169],ericpai,BaiJian,ericpai94@hotmail.com,122,0,0,0,0,0,0
+16,apache,incubator-iotdb,[172],jamber001,Jamber,jamber002@sina.com,39,0,1,1,0,0,0
+16,apache,incubator-iotdb,[148],liu-hai,liuhai,liuhai35@163.com,1,0,1,0,0,0,0
+16,apache,incubator-iotdb,[11 23 31],liutaohua,Dawei Liu,atoildw@163.com,48,1,2,0,0,0,0
+16,apache,incubator-iotdb,[ 68 101 124],mychaow,chaow,xunmengzhuiyi@gmail.com,47,0,0,0,0,0,0
+16,apache,incubator-iotdb,[61],neuyilan,Houliang Qi,neuyilan@163.com,99,0,2,1,0,0,0
+16,apache,incubator-iotdb,[187],ruanwenjun,Wenjun Ruan,wenjun@apache.org,7,0,5,0,0,0,0
+16,apache,incubator-iotdb,[10 34],samperson1997,Zesong Sun,szs19@mails.tsinghua.edu.cn,189,4,3,2,0,0,1
+16,apache,incubator-iotdb,[135],sunjincheng121,Jincheng Sun,sunjincheng121@gmail.com,22,0,0,0,0,0,0
+16,apache,incubator-iotdb,[207],tsunghanjacktsai,Jack Tsai,tsaitsunghan@apache.org,26,0,0,0,0,0,0
+16,apache,incubator-iotdb,[42 44],vesense,Xin Wang,xinwang@apache.org,25,0,0,1,0,0,0
+16,apache,incubator-iotdb,[176],xinzhongtianxia,xinzhongtianxia,453935989@qq.com,23,0,0,0,0,0,0
+16,apache,incubator-iotdb,[185],xuanronaldo,Xuan Ronaldo,xuanronaldo@qq.com,39,0,0,1,0,0,0
+16,apache,incubator-iotdb,[102],yuqi1129,Qi Yu,yuqi4733@gmail.com,17,0,5,0,0,0,0
+24,apache,jackrabbit-filevault,[230],karlpauls,Karl Pauls,pauls@apache.org,1,0,0,0,0,0,0
+56,apache,sling-org-apache-sling-auth-form,[243],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,7,0,0,0,0,0,0
+88,apache,sling-org-apache-sling-commons-log,[251],cziegeler,Carsten Ziegeler,cziegeler@apache.org,72,0,0,0,0,0,1
+96,apache,sling-org-apache-sling-commons-osgi,[252],cziegeler,Carsten Ziegeler,cziegeler@apache.org,59,0,0,0,0,0,0
+128,apache,sling-org-apache-sling-engine,[256],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,41,0,0,0,0,0,0
+128,apache,sling-org-apache-sling-engine,[255],cziegeler,Carsten Ziegeler,cziegeler@apache.org,272,0,0,0,0,0,0
+128,apache,sling-org-apache-sling-engine,[261],karlpauls,Karl Pauls,pauls@apache.org,15,0,0,0,0,3,0
+136,apache,sling-org-apache-sling-extensions-webconsolesecurityprovider,[264],cziegeler,Carsten Ziegeler,cziegeler@apache.org,41,0,0,0,0,3,0
+144,apache,sling-org-apache-sling-feature-extension-apiregions,[267 270],cziegeler,Carsten Ziegeler,cziegeler@apache.org,146,0,0,0,0,8,2
+144,apache,sling-org-apache-sling-feature-extension-apiregions,[268],karlpauls,Karl Pauls,pauls@apache.org,12,0,0,0,0,3,0
+256,apache,sling-org-apache-sling-repoinit-parser,[288],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,87,0,0,0,0,15,0
+280,apache,sling-org-apache-sling-scripting-jsp,[300],karlpauls,Karl Pauls,pauls@apache.org,6,0,0,0,0,3,0
+304,apache,sling-org-apache-sling-servlets-post,[309],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,19,0,0,0,0,2,0
+304,apache,sling-org-apache-sling-servlets-post,[308],cziegeler,Carsten Ziegeler,cziegeler@apache.org,125,0,0,0,0,2,0
+368,apache,servicecomb-pack,[236],WillemJiang,Willem Jiang,willem.jiang@gmail.com,362,1,1,37,173,347,5
+368,apache,servicecomb-pack,[239],chanjarster,Daniel Qian,chanjarster@gmail.com,34,0,0,1,6,15,0
+16,apache,incubator-iotdb,[137],GLBB,lvshuang,unbeatableglbb@gmail.com,2,0,0,0,0,0,0
+16,apache,incubator-iotdb,[12 50],HTHou,Haonan,hhaonan@outlook.com,750,5,23,16,0,0,2
+16,apache,incubator-iotdb,[201],JackieTien97,Jackie Tien,jackietien97@gmail.com,565,5,3,5,0,0,0
+16,apache,incubator-iotdb,[156],SteveYurongSu,Steve Yurong Su,rong@apache.org,244,8,10,8,0,0,0
+16,apache,incubator-iotdb,[72],WeiZhong94,Wei Zhong,weizhong0618@gmail.com,4,0,0,0,0,0,0
+16,apache,incubator-iotdb,[211],ahuazhu,zhengwen zhu,ahuazhu@gmail.com,3,0,2,0,0,0,0
+16,apache,incubator-iotdb,[116],asdf2014,Benedict Jin,asdf2014@apache.org,61,0,0,0,0,0,4
+16,apache,incubator-iotdb,[162],bigreybear,ZhaoXin,x_zhao16@163.com,58,0,0,1,0,0,0
+16,apache,incubator-iotdb,[177],chengjianyun,Jianyun Cheng,chengjianyun@outlook.com,7,0,5,1,0,0,0
+16,apache,incubator-iotdb,[138],chenjun40,chenjun40,chenjunatgg@gmail.com,1,0,1,0,0,0,0
+16,apache,incubator-iotdb,[95],chrisdutz,Christofer Dutz,christofer.dutz@c-ware.de,28,0,3,0,0,0,0
+16,apache,incubator-iotdb,[181],cornmonster,Zhong Wang,wangzhong.zw@alibaba-inc.com,33,0,0,0,0,0,0
+16,apache,incubator-iotdb,[155],dongzl,Zonglei Dong,dongzonglei@apache.org,3,0,1,0,0,0,0
+16,apache,incubator-iotdb,[169],ericpai,BaiJian,ericpai94@hotmail.com,122,0,0,0,0,0,0
+16,apache,incubator-iotdb,[137],GLBB,lvshuang,unbeatableglbb@gmail.com,2,0,0,0,0,0,0
+16,apache,incubator-iotdb,[12 50],HTHou,Haonan,hhaonan@outlook.com,750,5,23,16,0,0,2
+16,apache,incubator-iotdb,[201],JackieTien97,Jackie Tien,jackietien97@gmail.com,565,5,3,5,0,0,0
+16,apache,incubator-iotdb,[156],SteveYurongSu,Steve Yurong Su,rong@apache.org,244,8,10,8,0,0,0
+16,apache,incubator-iotdb,[72],WeiZhong94,Wei Zhong,weizhong0618@gmail.com,4,0,0,0,0,0,0
+16,apache,incubator-iotdb,[211],ahuazhu,zhengwen zhu,ahuazhu@gmail.com,3,0,2,0,0,0,0
+16,apache,incubator-iotdb,[116],asdf2014,Benedict Jin,asdf2014@apache.org,61,0,0,0,0,0,4
+16,apache,incubator-iotdb,[162],bigreybear,ZhaoXin,x_zhao16@163.com,58,0,0,1,0,0,0
+16,apache,incubator-iotdb,[177],chengjianyun,Jianyun Cheng,chengjianyun@outlook.com,7,0,5,1,0,0,0
+16,apache,incubator-iotdb,[138],chenjun40,chenjun40,chenjunatgg@gmail.com,1,0,1,0,0,0,0
+16,apache,incubator-iotdb,[95],chrisdutz,Christofer Dutz,christofer.dutz@c-ware.de,28,0,3,0,0,0,0
+16,apache,incubator-iotdb,[181],cornmonster,Zhong Wang,wangzhong.zw@alibaba-inc.com,33,0,0,0,0,0,0
+16,apache,incubator-iotdb,[155],dongzl,Zonglei Dong,dongzonglei@apache.org,3,0,1,0,0,0,0
+16,apache,incubator-iotdb,[169],ericpai,BaiJian,ericpai94@hotmail.com,122,0,0,0,0,0,0
+16,apache,incubator-iotdb,[172],jamber001,Jamber,jamber002@sina.com,39,0,1,1,0,0,0
+16,apache,incubator-iotdb,[148],liu-hai,liuhai,liuhai35@163.com,1,0,1,0,0,0,0
+16,apache,incubator-iotdb,[11 23 31],liutaohua,Dawei Liu,atoildw@163.com,48,1,2,0,0,0,0
+16,apache,incubator-iotdb,[ 68 101 124],mychaow,chaow,xunmengzhuiyi@gmail.com,47,0,0,0,0,0,0
+16,apache,incubator-iotdb,[61],neuyilan,Houliang Qi,neuyilan@163.com,99,0,2,1,0,0,0
+16,apache,incubator-iotdb,[187],ruanwenjun,Wenjun Ruan,wenjun@apache.org,7,0,5,0,0,0,0
+16,apache,incubator-iotdb,[10 34],samperson1997,Zesong Sun,szs19@mails.tsinghua.edu.cn,189,4,3,2,0,0,1
+16,apache,incubator-iotdb,[135],sunjincheng121,Jincheng Sun,sunjincheng121@gmail.com,22,0,0,0,0,0,0
+16,apache,incubator-iotdb,[207],tsunghanjacktsai,Jack Tsai,tsaitsunghan@apache.org,26,0,0,0,0,0,0
+16,apache,incubator-iotdb,[42 44],vesense,Xin Wang,xinwang@apache.org,25,0,0,1,0,0,0
+16,apache,incubator-iotdb,[176],xinzhongtianxia,xinzhongtianxia,453935989@qq.com,23,0,0,0,0,0,0
+16,apache,incubator-iotdb,[185],xuanronaldo,Xuan Ronaldo,xuanronaldo@qq.com,39,0,0,1,0,0,0
+16,apache,incubator-iotdb,[102],yuqi1129,Qi Yu,yuqi4733@gmail.com,17,0,5,0,0,0,0
+24,apache,jackrabbit-filevault,[230],karlpauls,Karl Pauls,pauls@apache.org,1,0,0,0,0,0,0
+56,apache,sling-org-apache-sling-auth-form,[243],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,7,0,0,0,0,0,0
+88,apache,sling-org-apache-sling-commons-log,[251],cziegeler,Carsten Ziegeler,cziegeler@apache.org,72,0,0,0,0,2,1
+96,apache,sling-org-apache-sling-commons-osgi,[252],cziegeler,Carsten Ziegeler,cziegeler@apache.org,59,0,0,0,0,0,0
+128,apache,sling-org-apache-sling-engine,[256],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,41,0,0,0,0,2,0
+128,apache,sling-org-apache-sling-engine,[255],cziegeler,Carsten Ziegeler,cziegeler@apache.org,272,0,0,0,0,19,0
+128,apache,sling-org-apache-sling-engine,[261],karlpauls,Karl Pauls,pauls@apache.org,15,0,0,0,0,3,0
+136,apache,sling-org-apache-sling-extensions-webconsolesecurityprovider,[264],cziegeler,Carsten Ziegeler,cziegeler@apache.org,41,0,0,0,0,3,0
+144,apache,sling-org-apache-sling-feature-extension-apiregions,[267 270],cziegeler,Carsten Ziegeler,cziegeler@apache.org,146,0,0,0,0,8,2
+144,apache,sling-org-apache-sling-feature-extension-apiregions,[268],karlpauls,Karl Pauls,pauls@apache.org,12,0,0,0,0,3,0
+256,apache,sling-org-apache-sling-repoinit-parser,[288],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,87,0,0,0,0,15,0
+280,apache,sling-org-apache-sling-scripting-jsp,[300],karlpauls,Karl Pauls,pauls@apache.org,6,0,0,0,0,3,0
+304,apache,sling-org-apache-sling-servlets-post,[309],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,19,0,0,0,0,2,0
+304,apache,sling-org-apache-sling-servlets-post,[308],cziegeler,Carsten Ziegeler,cziegeler@apache.org,125,0,0,0,0,2,0
+368,apache,servicecomb-pack,[236],WillemJiang,Willem Jiang,willem.jiang@gmail.com,362,1,1,37,173,347,5
+368,apache,servicecomb-pack,[239],chanjarster,Daniel Qian,chanjarster@gmail.com,34,0,0,1,6,15,0

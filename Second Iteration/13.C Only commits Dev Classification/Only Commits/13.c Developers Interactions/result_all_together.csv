@@ -1,0 +1,245 @@
+project_id,owner,repo,git_user_id,login,name,email,commit_tot,issue_assigned,issue_created,issue_mentioned,tot_issue_comments,tot_pr_comments,tot_commit_comments,total_sum,class
+5,apache,ratis,[171],ChenSammi,Sammi Chen,sammichen@apache.org,15,0,0,0,0,0,0,15,active
+5,apache,ratis,[166 210],OneSizeFitsQuorum,Potato,tanxinyu@apache.org,25,0,0,0,0,44,0,69,super active
+5,apache,ratis,[188],bharatviswa504,Bharat Viswanadham,bharat@apache.org,3,0,0,0,0,5,0,8,average
+5,apache,ratis,[160],codings-dan,Yaolong Liu,lylpysz1@163.com,54,0,0,0,0,123,0,177,super active
+5,apache,ratis,[201],dengziming,dengziming,dengziming1993@gmail.com,1,0,0,0,0,1,0,2,super inactive
+5,apache,ratis,[172],kerneltime,Ritesh H Shukla,kerneltime@gmail.com,1,0,0,0,0,1,0,2,super inactive
+5,apache,ratis,[174],maobaolong,maobaolong,307499405@qq.com,12,0,0,0,0,15,0,27,active
+5,apache,ratis,[177],neuyilan,Houliang Qi,neuyilan@163.com,1,0,0,0,0,0,0,1,super inactive
+5,apache,ratis,[182],sadanand48,Sadanand Shenoy,sadanand.shenoy4898@gmail.com,2,0,0,0,0,1,0,3,inactive
+13,apache,hop,[104],HiromuHota,Hiromu Hota,hiromu.hota@gmail.com,36,0,0,0,0,18,0,54,average
+13,apache,hop,[100],jballment,John Ballment,john.ballment@bizcubed.com.au,6,0,0,0,0,3,0,9,super inactive
+13,apache,hop,[89],mattcasters,Matt Casters,mattcasters@gmail.com,1641,51,34,13,91,109,1,1940,super active
+13,apache,hop,[106],mfgaspar,Miguel Gaspar,miguel.ferreira.gaspar@gmail.com,1,0,0,0,0,1,0,2,super inactive
+13,apache,hop,[86],mookkiah,Mahendran Mookkiah,mahendran.mookkiah@gmail.com,32,0,0,0,0,14,0,46,inactive
+13,apache,hop,[77],sramazzina,Sergio Ramazzina,sergio.ramazzina@serasoft.it,385,102,72,11,57,37,0,664,active
+29,apache,openmeetings,[119],CkNoSFeRaTU,Konstantin Kuzov,master.nosferatu@gmail.com,6,0,0,0,0,5,0,11,super inactive
+53,apache,sling-org-apache-sling-api,[216 247],cziegeler,Carsten Ziegeler,cziegeler@apache.org,347,0,0,0,0,0,2,349,super inactive
+117,apache,sling-org-apache-sling-distribution-api,[229],amit-jain,Amit Jain,amitj@apache.org,2,0,0,0,0,0,0,2,super inactive
+189,apache,sling-org-apache-sling-jcr-base,[216 247],cziegeler,Carsten Ziegeler,cziegeler@apache.org,106,0,0,0,0,0,0,106,super inactive
+253,apache,sling-org-apache-sling-provisioning-model,[216 247],cziegeler,Carsten Ziegeler,cziegeler@apache.org,78,0,0,0,0,0,0,78,super inactive
+285,apache,sling-org-apache-sling-scripting-sightly,[216 247],cziegeler,Carsten Ziegeler,cziegeler@apache.org,24,0,0,0,0,0,0,24,super active
+285,apache,sling-org-apache-sling-scripting-sightly,[240 246 253],karlpauls,Karl Pauls,pauls@apache.org,6,0,0,0,0,0,0,6,super inactive
+301,apache,sling-org-apache-sling-servlets-annotations,[258 266],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,16,0,0,0,0,0,1,17,super active
+301,apache,sling-org-apache-sling-servlets-annotations,[216 247],cziegeler,Carsten Ziegeler,cziegeler@apache.org,1,0,0,0,0,0,0,1,super inactive
+309,apache,sling-org-apache-sling-starter,[258 266],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,70,0,0,0,0,0,0,70,super inactive
+349,apache,sling-whiteboard,[280],badvision,Brendan Robert,brendan.robert@gmail.com,8,0,0,0,0,0,0,8,super inactive
+349,apache,sling-whiteboard,[258 266],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,413,0,0,0,0,0,1,414,super active
+349,apache,sling-whiteboard,[216 247],cziegeler,Carsten Ziegeler,cziegeler@apache.org,89,0,0,0,0,0,1,90,average
+357,apache,commons-statistics,[72],mmalenic,Marko Malenic,mmalenic1@gmail.com,1,0,0,0,0,0,0,1,super inactive
+6,apache,any23,[69],lewismc,Lewis John McGibbney,lewis.mcgibbney@gmail.com,273,0,0,0,0,100,3,376,super inactive
+30,apache,plc4x,[200],chrisdutz,Christofer Dutz,christofer.dutz@c-ware.de,3357,22,19,30,149,156,9,3742,super active
+30,apache,plc4x,[168],hutcheb,Ben Hutcheson,ben.hutche@gmail.com,392,7,0,12,17,43,5,476,active
+30,apache,plc4x,[184],ottobackwards,Otto Fowler,ottobackwards@gmail.com,24,2,0,0,1,30,1,58,super inactive
+30,apache,plc4x,[174],splatch,Łukasz Dywicki,luke@code-house.org,57,18,6,14,31,32,0,158,inactive
+38,apache,sling-feature-launcher-maven-plugin,[224 250 260],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,5,0,0,0,0,0,0,5,super inactive
+142,apache,sling-org-apache-sling-feature-cpconverter,[242 279],andreituicu,Andrei Tuicu,andrei.tuicu@gmail.com,4,0,0,0,0,2,0,6,super inactive
+142,apache,sling-org-apache-sling-feature-cpconverter,[237 245],cziegeler,Carsten Ziegeler,cziegeler@apache.org,64,0,0,0,0,17,1,82,active
+142,apache,sling-org-apache-sling-feature-cpconverter,[232 244 271 292],karlpauls,Karl Pauls,pauls@apache.org,62,0,0,0,0,57,0,119,super active
+142,apache,sling-org-apache-sling-feature-cpconverter,[233],niekraaijmakers,Niek Raaijmakers,niekraaijmakers@gmail.com,5,0,0,0,0,12,0,17,inactive
+150,apache,sling-org-apache-sling-feature-launcher,[224 250 260],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,9,0,0,0,0,2,0,11,inactive
+150,apache,sling-org-apache-sling-feature-launcher,[237 245],cziegeler,Carsten Ziegeler,cziegeler@apache.org,67,0,0,0,0,8,1,76,super active
+150,apache,sling-org-apache-sling-feature-launcher,[232 244 271 292],karlpauls,Karl Pauls,pauls@apache.org,58,0,0,0,0,13,0,71,active
+150,apache,sling-org-apache-sling-feature-launcher,[220 228 230 246 266 276 284],rombert,Robert Munteanu,robert.munteanu@gmail.com,21,0,0,0,0,0,1,22,average
+150,apache,sling-org-apache-sling-feature-launcher,[248],stbischof,Stefan Bischof,stbischof@bipolis.org,8,0,0,0,0,0,1,9,super inactive
+174,apache,sling-org-apache-sling-installer-core,[237 245],cziegeler,Carsten Ziegeler,cziegeler@apache.org,291,0,0,0,0,0,0,291,super inactive
+206,apache,sling-org-apache-sling-jcr-resource,[224 250 260],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,15,0,0,0,0,0,0,15,super inactive
+206,apache,sling-org-apache-sling-jcr-resource,[237 245],cziegeler,Carsten Ziegeler,cziegeler@apache.org,405,0,0,0,0,0,0,405,super active
+230,apache,sling-org-apache-sling-launchpad-integration-tests,[237 245],cziegeler,Carsten Ziegeler,cziegeler@apache.org,64,0,0,0,0,0,0,64,super inactive
+302,apache,sling-org-apache-sling-servlets-annotations-it,[224 250 260],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,9,0,0,0,0,0,0,9,super inactive
+318,apache,sling-org-apache-sling-testing-clients,[242 279],andreituicu,Andrei Tuicu,andrei.tuicu@gmail.com,6,0,0,0,0,0,0,6,super active
+318,apache,sling-org-apache-sling-testing-clients,[237 245],cziegeler,Carsten Ziegeler,cziegeler@apache.org,2,0,0,0,0,0,0,2,super inactive
+342,apache,sling-scriptingbundle-maven-plugin,[232 244 271 292],karlpauls,Karl Pauls,pauls@apache.org,14,0,0,0,0,0,0,14,super inactive
+358,apache,cxf,[116],CarlosPanarello,Carlos Eduardo Panarello,carlospanarello@gmail.com,1,0,0,0,0,0,0,1,super inactive
+358,apache,cxf,[99],andymc12,Andy McCright,j.andrew.mccright@gmail.com,151,0,0,0,0,0,0,151,active
+358,apache,cxf,[115],bnazare,Bruno Gonçalves,bnazare@gmail.com,1,0,0,0,0,0,0,1,super inactive
+358,apache,cxf,[84],jgallimore,Jonathan Gallimore,jon@jrg.me.uk,2,0,0,0,0,0,0,2,inactive
+358,apache,cxf,[76],jimma,jimma,ema@apache.org,151,0,0,0,0,0,0,151,active
+358,apache,cxf,[114],ropalka,Richard Opálka,opalka.richard@gmail.com,2,0,0,0,0,0,0,2,inactive
+16,apache,incubator-iotdb,[144],GLBB,lvshuang,unbeatableglbb@gmail.com,2,0,0,0,0,0,0,2,super inactive
+16,apache,incubator-iotdb,[5],HTHou,Haonan,hhaonan@outlook.com,750,5,23,16,0,0,2,796,super active
+16,apache,incubator-iotdb,[4],JackieTien97,Jackie Tien,jackietien97@gmail.com,565,5,3,5,0,0,0,578,super active
+16,apache,incubator-iotdb,[12],SteveYurongSu,Steve Yurong Su,rong@apache.org,244,8,10,8,0,0,0,270,super active
+16,apache,incubator-iotdb,[181],WeiZhong94,Wei Zhong,weizhong0618@gmail.com,4,0,0,0,0,0,0,4,super inactive
+16,apache,incubator-iotdb,[66],ahuazhu,zhengwen zhu,ahuazhu@gmail.com,3,0,2,0,0,0,0,5,super inactive
+16,apache,incubator-iotdb,[148],asdf2014,Benedict Jin,asdf2014@apache.org,61,0,0,0,0,0,4,65,active
+16,apache,incubator-iotdb,[11],bigreybear,ZhaoXin,x_zhao16@163.com,58,0,0,1,0,0,0,59,active
+16,apache,incubator-iotdb,[56],chengjianyun,Jianyun Cheng,chengjianyun@outlook.com,7,0,5,1,0,0,0,13,inactive
+16,apache,incubator-iotdb,[146],chenjun40,chenjun40,chenjunatgg@gmail.com,1,0,1,0,0,0,0,2,super inactive
+16,apache,incubator-iotdb,[164],chrisdutz,Christofer Dutz,christofer.dutz@c-ware.de,28,0,3,0,0,0,0,31,average
+16,apache,incubator-iotdb,[32],cornmonster,Zhong Wang,wangzhong.zw@alibaba-inc.com,33,0,0,0,0,0,0,33,average
+16,apache,incubator-iotdb,[133 336],dongzl,Zonglei Dong,dongzonglei@apache.org,3,0,1,0,0,0,0,4,super inactive
+16,apache,incubator-iotdb,[24],ericpai,BaiJian,ericpai94@hotmail.com,122,0,0,0,0,0,0,122,super active
+16,apache,incubator-iotdb,[49],jamber001,Jamber,jamber002@sina.com,39,0,1,1,0,0,0,41,active
+16,apache,incubator-iotdb,[134],liu-hai,liuhai,liuhai35@163.com,1,0,1,0,0,0,0,2,super inactive
+16,apache,incubator-iotdb,[102],liutaohua,Dawei Liu,atoildw@163.com,48,1,2,0,0,0,0,51,active
+16,apache,incubator-iotdb,[88],mychaow,chaow,xunmengzhuiyi@gmail.com,47,0,0,0,0,0,0,47,active
+16,apache,incubator-iotdb,[86],neuyilan,Houliang Qi,neuyilan@163.com,99,0,2,1,0,0,0,102,super active
+16,apache,incubator-iotdb,[103 333],ruanwenjun,Wenjun Ruan,wenjun@apache.org,7,0,5,0,0,0,0,12,inactive
+16,apache,incubator-iotdb,[54],samperson1997,Zesong Sun,szs19@mails.tsinghua.edu.cn,189,4,3,2,0,0,1,199,super active
+16,apache,incubator-iotdb,[131],sunjincheng121,Jincheng Sun,sunjincheng121@gmail.com,22,0,0,0,0,0,0,22,inactive
+16,apache,incubator-iotdb,[65],tsunghanjacktsai,Jack Tsai,tsaitsunghan@apache.org,26,0,0,0,0,0,0,26,average
+16,apache,incubator-iotdb,[175],vesense,Xin Wang,xinwang@apache.org,25,0,0,1,0,0,0,26,average
+16,apache,incubator-iotdb,[6],xinzhongtianxia,xinzhongtianxia,453935989@qq.com,23,0,0,0,0,0,0,23,inactive
+16,apache,incubator-iotdb,[46],xuanronaldo,Xuan Ronaldo,xuanronaldo@qq.com,39,0,0,1,0,0,0,40,average
+16,apache,incubator-iotdb,[138 337],yuqi1129,Qi Yu,yuqi4733@gmail.com,17,0,5,0,0,0,0,22,inactive
+24,apache,jackrabbit-filevault,[360 400 408 434 437],karlpauls,Karl Pauls,pauls@apache.org,1,0,0,0,0,0,0,1,super inactive
+56,apache,sling-org-apache-sling-auth-form,[427],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,7,0,0,0,0,0,0,7,super inactive
+88,apache,sling-org-apache-sling-commons-log,[397 412],cziegeler,Carsten Ziegeler,cziegeler@apache.org,72,0,0,0,0,0,1,73,super inactive
+96,apache,sling-org-apache-sling-commons-osgi,[397 412],cziegeler,Carsten Ziegeler,cziegeler@apache.org,59,0,0,0,0,0,0,59,super inactive
+128,apache,sling-org-apache-sling-engine,[427],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,41,0,0,0,0,0,0,41,average
+128,apache,sling-org-apache-sling-engine,[397 412],cziegeler,Carsten Ziegeler,cziegeler@apache.org,272,0,0,0,0,0,0,272,super active
+128,apache,sling-org-apache-sling-engine,[360 400 408 434 437],karlpauls,Karl Pauls,pauls@apache.org,15,0,0,0,0,0,0,15,super inactive
+136,apache,sling-org-apache-sling-extensions-webconsolesecurityprovider,[397 412],cziegeler,Carsten Ziegeler,cziegeler@apache.org,41,0,0,0,0,0,0,41,super inactive
+144,apache,sling-org-apache-sling-feature-extension-apiregions,[397 412],cziegeler,Carsten Ziegeler,cziegeler@apache.org,146,0,0,0,0,0,2,148,super active
+144,apache,sling-org-apache-sling-feature-extension-apiregions,[360 400 408 434 437],karlpauls,Karl Pauls,pauls@apache.org,12,0,0,0,0,0,0,12,super inactive
+256,apache,sling-org-apache-sling-repoinit-parser,[427],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,87,0,0,0,0,0,0,87,super inactive
+280,apache,sling-org-apache-sling-scripting-jsp,[360 400 408 434 437],karlpauls,Karl Pauls,pauls@apache.org,6,0,0,0,0,0,0,6,super inactive
+304,apache,sling-org-apache-sling-servlets-post,[427],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,19,0,0,0,0,0,0,19,super inactive
+304,apache,sling-org-apache-sling-servlets-post,[397 412],cziegeler,Carsten Ziegeler,cziegeler@apache.org,125,0,0,0,0,0,0,125,super active
+368,apache,servicecomb-pack,[365],WillemJiang,Willem Jiang,willem.jiang@gmail.com,362,1,1,37,173,347,5,926,super active
+368,apache,servicecomb-pack,[369],chanjarster,Daniel Qian,chanjarster@gmail.com,34,0,0,1,6,15,0,56,super inactive
+7,apache,camel,[72],ank19,Andreas Klug,andreas.klug2@de.bosch.com,4,0,0,0,0,6,0,10,inactive
+7,apache,camel,[11 82],davsclaus,Claus Ibsen,claus.ibsen@gmail.com,24725,0,0,0,0,5913,2,30640,super active
+7,apache,camel,[32],grgrzybek,Grzegorz Grzybek,gr.grzybek@gmail.com,140,0,0,0,0,20,0,160,average
+7,apache,camel,[41],hokutor,Hokutor,hwcamel@huawei.com,36,0,0,0,0,14,0,50,average
+7,apache,camel,[23],johnpoth,John Poth,poth.john@gmail.com,231,0,0,0,0,45,0,276,active
+7,apache,camel,[67],kayloos,Claus Skou Nielsen,kalusn@gmail.com,1,0,0,0,0,0,0,1,super inactive
+7,apache,camel,[21 77 78 96],oscerd,Andrea Cosentino,ancosen@gmail.com,17713,0,0,0,0,9393,0,27106,super active
+7,apache,camel,[40],vagpap,Vangelis Papanastasatos,vagpap@gmail.com,1,0,0,0,0,1,0,2,super inactive
+15,apache,incubator-hop,[244],HiromuHota,Hiromu Hota,hiromu.hota@gmail.com,36,0,0,0,0,0,0,36,average
+15,apache,incubator-hop,[240],jballment,John Ballment,john.ballment@bizcubed.com.au,6,0,0,0,0,0,0,6,super inactive
+15,apache,incubator-hop,[227],mattcasters,Matt Casters,mattcasters@gmail.com,1641,51,34,13,0,0,1,1740,super active
+15,apache,incubator-hop,[247 254],mfgaspar,Miguel Gaspar,miguel.ferreira.gaspar@gmail.com,1,0,0,0,0,0,0,1,super inactive
+15,apache,incubator-hop,[181 246],mookkiah,Mahendran Mookkiah,mahendran.mookkiah@gmail.com,32,0,0,0,0,0,0,32,inactive
+15,apache,incubator-hop,[225 251],sramazzina,Sergio Ramazzina,sergio.ramazzina@serasoft.it,385,102,72,11,0,0,0,570,active
+31,apache,shiro,[286],bdemers,Brian Demers,brian.demers@gmail.com,238,1,0,2,7,240,2,490,super active
+31,apache,shiro,[278],bmarwell,Benjamin Marwell,bmarwell@apache.org,118,4,4,2,0,0,3,131,super inactive
+55,apache,sling-org-apache-sling-auth-core,[296],cziegeler,Carsten Ziegeler,cziegeler@apache.org,113,0,0,0,0,0,3,116,super inactive
+143,apache,sling-org-apache-sling-feature-diff,[296],cziegeler,Carsten Ziegeler,cziegeler@apache.org,3,0,0,0,0,0,0,3,super inactive
+151,apache,sling-org-apache-sling-feature-modelconverter,[296],cziegeler,Carsten Ziegeler,cziegeler@apache.org,31,0,0,0,0,0,0,31,super inactive
+175,apache,sling-org-apache-sling-installer-factory-configuration,[296],cziegeler,Carsten Ziegeler,cziegeler@apache.org,109,0,0,0,0,0,0,109,super inactive
+239,apache,sling-org-apache-sling-models-impl,[296],cziegeler,Carsten Ziegeler,cziegeler@apache.org,9,0,0,0,0,0,0,9,super inactive
+303,apache,sling-org-apache-sling-servlets-get,[296],cziegeler,Carsten Ziegeler,cziegeler@apache.org,103,0,0,0,0,0,0,103,super active
+303,apache,sling-org-apache-sling-servlets-get,[300 324 353 357],karlpauls,Karl Pauls,pauls@apache.org,20,0,0,0,0,0,0,20,super inactive
+351,apache,submarine,[367],pingsutw,Kevin Su,pingsutw@apache.org,99,1,0,1,0,0,0,101,super inactive
+359,apache,hadoop-ozone,[176],ByronHsu,ByronHsu,byronhsu1230@gmail.com,1,0,0,0,0,0,0,1,super inactive
+359,apache,hadoop-ozone,[148],ChenSammi,Sammi Chen,sammichen@apache.org,162,0,0,0,0,0,0,162,super active
+359,apache,hadoop-ozone,[215],HorizonNet,Jan Hentschel,jan.hentschel@ultratendency.com,4,0,0,0,0,0,0,4,average
+359,apache,hadoop-ozone,[110 223],JyotinderSingh,Jyotinder Singh,jyotindrsingh@gmail.com,36,0,0,0,0,0,0,36,active
+359,apache,hadoop-ozone,[200],Tartarus0zm,zhangmang,zhangmang1@163.com,2,0,0,0,0,0,0,2,inactive
+359,apache,hadoop-ozone,[154],WeisonWei,Weison Wei,weixx3@126.com,1,0,0,0,0,0,0,1,super inactive
+359,apache,hadoop-ozone,[185],ayushtkn,Ayush Saxena,ayushsaxena@apache.org,13,0,0,0,0,0,0,13,average
+359,apache,hadoop-ozone,[139],bharatviswa504,Bharat Viswanadham,bharat@apache.org,399,0,0,0,0,0,1,400,super active
+359,apache,hadoop-ozone,[179],cku328,Neo Yang,neoyang@apache.org,20,0,0,0,0,0,0,20,average
+359,apache,hadoop-ozone,[222],craigcondit,Craig Condit,github@craigcondit.com,2,0,0,0,0,0,0,2,inactive
+359,apache,hadoop-ozone,[206],dineshchitlangia,Dinesh Chitlangia,dineshchitlangia@gmail.com,31,0,0,0,0,0,0,31,average
+359,apache,hadoop-ozone,[194],harindersb,Harinder Singh Bedi,harindersingh861@gmail.com,1,0,0,0,0,0,0,1,super inactive
+359,apache,hadoop-ozone,[208],jsoft88,Jorge Cespedes,jorgitouni@gmail.com,1,0,0,0,0,0,0,1,super inactive
+359,apache,hadoop-ozone,[158],jwminton,Jasen Minton,jasen.minton@gmail.com,4,0,0,0,0,0,0,4,average
+359,apache,hadoop-ozone,[130],kerneltime,Ritesh H Shukla,kerneltime@gmail.com,42,0,0,0,0,0,0,42,active
+359,apache,hadoop-ozone,[189],maobaolong,maobaolong,307499405@qq.com,58,0,0,0,0,0,0,58,super active
+359,apache,hadoop-ozone,[221],mohammadjkhan,Mohammad J. Khan,mohammad.j.khan@target.com,2,0,0,0,0,0,0,2,inactive
+359,apache,hadoop-ozone,[181 246],mookkiah,Mahendran Mookkiah,mahendran.mookkiah@gmail.com,1,0,0,0,0,0,0,1,super inactive
+359,apache,hadoop-ozone,[173],plsmaop,Ivan Chen,allenivan@gmail.com,1,0,0,0,0,0,0,1,super inactive
+359,apache,hadoop-ozone,[116],rakeshadr,Rakesh Radhakrishnan,rakeshr@apache.org,57,0,0,0,0,0,0,57,active
+359,apache,hadoop-ozone,[133],sadanand48,Sadanand Shenoy,sadanand.shenoy4898@gmail.com,97,0,0,0,0,0,0,97,super active
+359,apache,hadoop-ozone,[212],swagle,Siddharth,swagle@apache.org,42,0,0,0,0,0,0,42,active
+359,apache,hadoop-ozone,[108],umamaheswararao,Uma Maheswara Rao G,umamahesh@apache.org,66,0,0,0,0,0,2,68,super active
+359,apache,hadoop-ozone,[209],vinayakumarb,Vinayakumar B,vinayakumarb@apache.org,1,0,0,0,0,0,0,1,super inactive
+359,apache,hadoop-ozone,[140],vivekratnavel,Vivek Ratnavel Subramanian,vivekratnavel90@gmail.com,86,0,0,0,0,0,0,86,super active
+359,apache,hadoop-ozone,[204],wuweiwei95,Wu Weiwei,wuweiwei95@outlook.com,2,0,0,0,0,0,0,2,inactive
+359,apache,hadoop-ozone,[102],xBis7,Christos Bisias,christosbis@gmail.com,34,0,0,0,0,0,0,34,active
+19,apache,incubator-seatunnel,[111],ruanwenjun,Wenjun Ruan,wenjun@apache.org,111,6,43,31,0,0,0,191,super inactive
+27,apache,ofbiz-framework,[136],JacquesLeRoux,Jacques Le Roux,jacques.le.roux@les7arts.com,7506,0,0,0,0,0,6,7512,super active
+27,apache,ofbiz-framework,[140],nmalin,Nicolas Malin,nmalin@apache.org,459,0,0,0,0,0,0,459,super inactive
+267,apache,sling-org-apache-sling-resourceresolver,[196],reschke,Julian Reschke,julian.reschke@gmx.de,41,0,0,0,0,0,1,42,super inactive
+299,apache,sling-org-apache-sling-serviceusermapper,[215 231],karlpauls,Karl Pauls,pauls@apache.org,31,0,0,0,0,0,0,31,super inactive
+339,apache,sling-org-apache-sling-xss,[227],namigupt,Namit Gupta,namigupt@adobe.com,1,0,0,0,0,0,0,1,super inactive
+347,apache,sling-slingstart-maven-plugin,[215 231],karlpauls,Karl Pauls,pauls@apache.org,9,0,0,0,0,0,0,9,super inactive
+355,apache,commons-numbers,[73],XenoAmess,XenoAmess,xenoamess@gmail.com,4,0,0,0,0,0,0,4,super inactive
+4,apache,dolphinscheduler,[110],1qase4,zchong,zchongmail@163.com,1,0,1,0,0,0,0,2,super inactive
+4,apache,dolphinscheduler,[180],JinsYin,J·Y,jinsyin@gmail.com,4,0,2,0,0,0,0,6,inactive
+4,apache,dolphinscheduler,[ 213 1175 1253],LiuBodong,LiuBodong,liubodong2010@126.com,6,3,9,1,0,0,0,19,average
+4,apache,dolphinscheduler,[319],Segun-Ogundipe,Segun Ogundipe,davephenoms@gmail.com,4,3,1,3,0,0,0,11,inactive
+4,apache,dolphinscheduler,[404],amenglu,amenglu,1175433513@qq.com,1,0,0,0,0,0,0,1,super inactive
+4,apache,dolphinscheduler,[332],c-f-cooper,cooper,1322849632@qq.com,3,2,0,0,0,0,0,5,super inactive
+4,apache,dolphinscheduler,[74],caishunfeng,caishunfeng,caishunfeng2021@gmail.com,118,50,103,132,0,0,0,403,super active
+4,apache,dolphinscheduler,[158],cheneychoi,cheney,1119278078@qq.com,1,0,2,0,1,3,0,7,inactive
+4,apache,dolphinscheduler,[359],chengpeng2015,chengp,5058557@qq.com,1,0,2,0,2,1,0,6,inactive
+4,apache,dolphinscheduler,[342],deanwong,Dean Wong,wangding85@gmail.com,2,1,0,0,2,2,0,7,inactive
+4,apache,dolphinscheduler,[79],devosend,Devosend,devosend@gmail.com,122,104,50,23,85,215,0,599,super active
+4,apache,dolphinscheduler,[258],didiaode18,didiaode18,563646039@qq.com,3,1,4,3,10,5,0,26,active
+4,apache,dolphinscheduler,[ 187 1249],dongzl,Zonglei Dong,dongzonglei@apache.org,6,0,1,0,0,4,0,11,inactive
+4,apache,dolphinscheduler,[354],drunkenlegend,Saksham Gupta,saksham1319@gmail.com,1,1,0,0,1,0,0,3,super inactive
+4,apache,dolphinscheduler,[374],elonlo,elonlo,gamelifedong@gmail.com,8,0,5,1,10,5,0,29,active
+4,apache,dolphinscheduler,[ 245  671 1178],gabrywu,gabry.wu,gabrywu@apache.org,61,1,13,7,77,76,0,235,super active
+4,apache,dolphinscheduler,[ 288 1186],haydenzhourepo,Hayden Zhou,mfkhao2009@outlook.com,2,0,6,5,7,5,0,25,active
+4,apache,dolphinscheduler,[417],hgaol,Han Gao,dhangao@hotmail.com,6,0,1,0,2,9,0,18,average
+4,apache,dolphinscheduler,[155],hongshuboy,弘树丶,hongshuboy@gmail.com,1,2,1,1,1,1,0,7,inactive
+4,apache,dolphinscheduler,[379],hsupu,Hsu Pu,hsupu@msn.com,4,0,2,1,10,6,0,23,average
+4,apache,dolphinscheduler,[104],huagetai,worry,7039986@qq.com,9,9,12,3,6,3,0,42,active
+4,apache,dolphinscheduler,[418],itbasketplayer,itbasketplayer,825621876@qq.com,3,0,3,0,9,2,0,17,average
+4,apache,dolphinscheduler,[  99 1163],kezhenxu94,kezhenxu94,kezhenxu94@apache.org,110,8,5,32,0,0,0,155,super active
+4,apache,dolphinscheduler,[124],lordk911,Kevin.Shin,mail4kevin@163.com,2,2,31,10,0,0,0,45,active
+4,apache,dolphinscheduler,[ 248 1258],lyxell,Anton Lyxell,alyxell@kth.se,3,0,0,0,0,0,0,3,super inactive
+4,apache,dolphinscheduler,[384],muzhongjiang,muzhongjiang,mu_zhongjiang@163.com,9,0,6,0,0,0,0,15,average
+4,apache,dolphinscheduler,[425],oceanos,Kevin,kevin.d.jiang@foxmail.com,20,0,7,2,0,0,0,29,active
+4,apache,dolphinscheduler,[89],paul8263,Paul Zhang,xzhangyao@126.com,5,4,1,1,0,0,0,11,inactive
+4,apache,dolphinscheduler,[161 520],pinkhello,pinkhello,lee123lee123@163.com,7,4,3,0,0,0,0,14,average
+4,apache,dolphinscheduler,[191],pk19876824,张俊杰,545245855@qq.com,1,0,2,1,0,0,0,4,super inactive
+4,apache,dolphinscheduler,[375],qiaozhanwei,qiaozhanwei,qiaozhanwei@outlook.com,338,44,32,26,0,0,1,441,super active
+4,apache,dolphinscheduler,[ 128 1248],ruanwenjun,Wenjun Ruan,wenjun@apache.org,334,74,179,149,0,0,0,736,super active
+4,apache,dolphinscheduler,[265],shuangbofu,傅双波,786183073@qq.com,1,0,0,0,0,0,0,1,super inactive
+4,apache,dolphinscheduler,[ 439 1131 1203 1268 1302],tisonkun,tison,wander4096@gmail.com,1,0,1,1,0,0,0,3,super inactive
+4,apache,dolphinscheduler,[147],wangbowen1024,wangbowen,i@wangbowen.cn,2,1,12,1,0,0,0,16,average
+4,apache,dolphinscheduler,[145],wcmolin,Molin Wang,wcmolin@gmail.com,1,8,14,3,0,0,0,26,active
+4,apache,dolphinscheduler,[ 322 1263],woshiwuxiaofei,snail_fly,woshiwuxiaofei@126.com,31,4,7,3,0,0,0,45,active
+4,apache,dolphinscheduler,[357],yh2388,t1mon,178317391@qq.com,17,0,10,1,12,6,0,46,super active
+12,apache,groovy,[1366],awallgren,Anders Wallgren,awallgren@cloudbees.com,0,0,0,0,0,1,0,1,super inactive
+12,apache,groovy,[1356],blackdrag,Jochen Theodorou,blackdrag@gmx.org,1712,0,0,0,0,152,1,1865,super active
+12,apache,groovy,[1342],davydotcom,David Estes,davydotcom@gmail.com,2,0,0,0,0,0,0,2,super inactive
+12,apache,groovy,[1344],dmurat,Damir Murat,damir.murat.git@gmail.com,2,0,0,0,0,0,0,2,super inactive
+12,apache,groovy,[1361],jlstrater,Jenn Strater,jenn.strater@gmail.com,1,0,0,0,0,2,0,3,average
+12,apache,groovy,[1340],keeganwitt,Keegan Witt,keeganwitt@gmail.com,34,0,0,0,0,28,2,64,active
+12,apache,groovy,[1304],paulk-asert,Paul King,paulk@asert.com.au,5705,0,0,0,0,763,13,6481,super active
+28,apache,ofbiz-plugins,[1400],JacquesLeRoux,Jacques Le Roux,jacques.le.roux@les7arts.com,1412,0,0,0,0,19,3,1434,super active
+28,apache,ofbiz-plugins,[1389],dixitdeepak,Deepak Dixit,deepak.dixit@hotwax.co,249,0,0,0,0,1,0,250,super inactive
+52,apache,sling-org-apache-sling-adapter-annotations,[1402 1425],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,22,0,0,0,0,1,0,23,super inactive
+84,apache,sling-org-apache-sling-commons-fsclassloader,[1405 1417 1429],karlpauls,Karl Pauls,pauls@apache.org,12,0,0,0,0,0,0,12,super inactive
+124,apache,sling-org-apache-sling-distribution-journal-messages,[1415],amit-jain,Amit Jain,amitj@apache.org,2,0,0,0,0,3,0,5,super inactive
+204,apache,sling-org-apache-sling-jcr-repoinit,[1402 1425],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,107,0,0,0,0,15,0,122,super inactive
+220,apache,sling-org-apache-sling-junit-teleporter,[1402 1425],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,47,0,0,0,0,0,0,47,super inactive
+300,apache,sling-org-apache-sling-servlet-helpers,[1402 1425],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,23,0,0,0,0,0,0,23,super inactive
+324,apache,sling-org-apache-sling-testing-paxexam,[1402 1425],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,3,0,0,0,0,0,0,3,super inactive
+18,apache,incubator-ratis,[79],bharatviswa504,Bharat Viswanadham,bharat@apache.org,3,0,0,0,0,0,0,3,average
+18,apache,incubator-ratis,[99],dengziming,dengziming,dengziming1993@gmail.com,1,0,0,0,0,0,0,1,super inactive
+18,apache,incubator-ratis,[103],maobaolong,maobaolong,307499405@qq.com,12,0,0,0,0,0,0,12,super active
+26,apache,karaf,[113],grgrzybek,Grzegorz Grzybek,gr.grzybek@gmail.com,149,0,0,0,0,0,2,151,super inactive
+42,apache,sling-jspc-maven-plugin,[131 146],karlpauls,Karl Pauls,pauls@apache.org,10,0,0,0,0,0,0,10,super inactive
+138,apache,sling-org-apache-sling-feature-analyser,[144 153],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,6,0,0,0,0,0,0,6,super inactive
+138,apache,sling-org-apache-sling-feature-analyser,[131 146],karlpauls,Karl Pauls,pauls@apache.org,16,0,0,0,0,0,1,17,super active
+162,apache,sling-org-apache-sling-graphql-core,[144 153],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,130,0,0,0,0,0,1,131,super active
+162,apache,sling-org-apache-sling-graphql-core,[156],tyge68,Thierry Ygé,thierry.yge@gmail.com,2,0,0,0,0,0,1,3,super inactive
+354,apache,commons-geometry,[72],XenoAmess,XenoAmess,xenoamess@gmail.com,11,0,0,0,0,0,0,11,super inactive
+1,apache,JMeter,[31],eas5,Elvys Soares,eas5@cin.ufpe.br,2,0,0,0,0,0,0,2,super active
+1,apache,JMeter,[55],keithmork,Keith Mo,keith.mork@gmail.com,1,0,0,0,0,0,0,1,super inactive
+1,apache,JMeter,[10],stokpop,Peter Paul Bakker,peter.paul.bakker@stokpop.nl,1,0,0,0,0,0,0,1,super inactive
+121,apache,sling-org-apache-sling-distribution-journal,[134],amit-jain,Amit Jain,amitj@apache.org,7,0,0,0,0,0,0,7,super active
+121,apache,sling-org-apache-sling-distribution-journal,[137 202],cziegeler,Carsten Ziegeler,cziegeler@apache.org,5,0,0,0,0,0,0,5,super inactive
+129,apache,sling-org-apache-sling-event,[187],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,5,0,0,0,0,0,0,5,super inactive
+129,apache,sling-org-apache-sling-event,[137 202],cziegeler,Carsten Ziegeler,cziegeler@apache.org,19,0,0,0,0,7,1,27,super active
+137,apache,sling-org-apache-sling-feature,[137 202],cziegeler,Carsten Ziegeler,cziegeler@apache.org,172,0,0,0,0,15,0,187,super active
+137,apache,sling-org-apache-sling-feature,[127 151 156 169 180 195],karlpauls,Karl Pauls,pauls@apache.org,34,0,0,0,0,8,0,42,super inactive
+145,apache,sling-org-apache-sling-feature-extension-content,[137 202],cziegeler,Carsten Ziegeler,cziegeler@apache.org,5,0,0,0,0,0,0,5,super inactive
+177,apache,sling-org-apache-sling-installer-factory-feature,[137 202],cziegeler,Carsten Ziegeler,cziegeler@apache.org,42,0,0,0,0,2,0,44,super inactive
+273,apache,sling-org-apache-sling-scripting-core,[127 151 156 169 180 195],karlpauls,Karl Pauls,pauls@apache.org,41,0,0,0,0,6,0,47,super inactive
+297,apache,sling-org-apache-sling-security,[137 202],cziegeler,Carsten Ziegeler,cziegeler@apache.org,56,0,0,0,0,3,0,59,super inactive
+305,apache,sling-org-apache-sling-servlets-resolver,[181],ahmed-musallam,Ahmed Musallam,atyaf66@gmail.com,2,0,0,0,0,0,0,2,super inactive
+305,apache,sling-org-apache-sling-servlets-resolver,[187],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,53,0,0,0,0,2,0,55,inactive
+305,apache,sling-org-apache-sling-servlets-resolver,[137 202],cziegeler,Carsten Ziegeler,cziegeler@apache.org,218,0,0,0,0,10,0,228,super active
+305,apache,sling-org-apache-sling-servlets-resolver,[127 151 156 169 180 195],karlpauls,Karl Pauls,pauls@apache.org,74,0,0,0,0,2,0,76,active
+345,apache,sling-slingfeature-maven-plugin,[137 202],cziegeler,Carsten Ziegeler,cziegeler@apache.org,348,0,0,0,0,22,1,371,super active
+345,apache,sling-slingfeature-maven-plugin,[200],darshanmahor24,Darshan Mahor,darshan.mahor@gmail.com,1,0,0,0,0,1,0,2,super inactive
+353,apache,commons-compress,[74],XenoAmess,XenoAmess,xenoamess@gmail.com,12,0,0,0,0,11,0,23,super inactive

@@ -1,0 +1,17 @@
+project_id,owner,repo,git_user_id,login,name,email,commit_tot,issue_assigned,issue_created,issue_mentioned,tot_issue_comments,tot_pr_comments,tot_commit_comments
+19,apache,incubator-seatunnel,[85],ruanwenjun,Wenjun Ruan,wenjun@apache.org,111,6,43,31,0,0,0
+27,apache,ofbiz-framework,[91],JacquesLeRoux,Jacques Le Roux,jacques.le.roux@les7arts.com,7506,0,0,0,0,0,6
+27,apache,ofbiz-framework,[93],nmalin,Nicolas Malin,nmalin@apache.org,459,0,0,0,0,0,0
+267,apache,sling-org-apache-sling-resourceresolver,[157 158 159],reschke,Julian Reschke,julian.reschke@gmx.de,41,0,0,0,0,0,1
+299,apache,sling-org-apache-sling-serviceusermapper,[170],karlpauls,Karl Pauls,pauls@apache.org,31,0,0,0,0,0,0
+339,apache,sling-org-apache-sling-xss,[189],namigupt,Namit Gupta,namigupt@adobe.com,1,0,0,0,0,0,0
+347,apache,sling-slingstart-maven-plugin,[195],karlpauls,Karl Pauls,pauls@apache.org,9,0,0,0,0,0,0
+355,apache,commons-numbers,[70],XenoAmess,XenoAmess,xenoamess@gmail.com,4,0,0,0,0,0,0
+19,apache,incubator-seatunnel,[85],ruanwenjun,Wenjun Ruan,wenjun@apache.org,111,6,43,31,0,0,0
+27,apache,ofbiz-framework,[91],JacquesLeRoux,Jacques Le Roux,jacques.le.roux@les7arts.com,7506,0,0,0,0,170,6
+27,apache,ofbiz-framework,[93],nmalin,Nicolas Malin,nmalin@apache.org,459,0,0,0,0,21,0
+267,apache,sling-org-apache-sling-resourceresolver,[157 158 159],reschke,Julian Reschke,julian.reschke@gmx.de,41,0,0,0,0,22,1
+299,apache,sling-org-apache-sling-serviceusermapper,[170],karlpauls,Karl Pauls,pauls@apache.org,31,0,0,0,0,3,0
+339,apache,sling-org-apache-sling-xss,[189],namigupt,Namit Gupta,namigupt@adobe.com,1,0,0,0,0,1,0
+347,apache,sling-slingstart-maven-plugin,[195],karlpauls,Karl Pauls,pauls@apache.org,9,0,0,0,0,0,0
+355,apache,commons-numbers,[70],XenoAmess,XenoAmess,xenoamess@gmail.com,4,0,0,0,0,3,0

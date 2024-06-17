@@ -1,0 +1,41 @@
+project_id,owner,repo,git_user_id,login,name,email,commit_tot,issue_assigned,issue_created,issue_mentioned,tot_issue_comments,tot_pr_comments,tot_commit_comments
+1,apache,JMeter,[37],eas5,Elvys Soares,eas5@cin.ufpe.br,2,0,0,0,0,1,0
+1,apache,JMeter,[21],keithmork,Keith Mo,keith.mork@gmail.com,1,0,0,0,0,0,0
+1,apache,JMeter,[43],stokpop,Peter Paul Bakker,peter.paul.bakker@stokpop.nl,1,0,0,0,0,1,0
+121,apache,sling-org-apache-sling-distribution-journal,[122],amit-jain,Amit Jain,amitj@apache.org,7,0,0,0,0,7,0
+121,apache,sling-org-apache-sling-distribution-journal,[126],cziegeler,Carsten Ziegeler,cziegeler@apache.org,5,0,0,0,0,1,0
+129,apache,sling-org-apache-sling-event,[135],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,5,0,0,0,0,2,0
+129,apache,sling-org-apache-sling-event,[131],cziegeler,Carsten Ziegeler,cziegeler@apache.org,19,0,0,0,0,7,1
+137,apache,sling-org-apache-sling-feature,[140],cziegeler,Carsten Ziegeler,cziegeler@apache.org,172,0,0,0,0,15,0
+137,apache,sling-org-apache-sling-feature,[142],karlpauls,Karl Pauls,pauls@apache.org,34,0,0,0,0,8,0
+145,apache,sling-org-apache-sling-feature-extension-content,[153],cziegeler,Carsten Ziegeler,cziegeler@apache.org,5,0,0,0,0,0,0
+177,apache,sling-org-apache-sling-installer-factory-feature,[159],cziegeler,Carsten Ziegeler,cziegeler@apache.org,42,0,0,0,0,2,0
+273,apache,sling-org-apache-sling-scripting-core,[173 181],karlpauls,Karl Pauls,pauls@apache.org,41,0,0,0,0,6,0
+297,apache,sling-org-apache-sling-security,[188],cziegeler,Carsten Ziegeler,cziegeler@apache.org,56,0,0,0,0,3,0
+305,apache,sling-org-apache-sling-servlets-resolver,[210],ahmed-musallam,Ahmed Musallam,atyaf66@gmail.com,2,0,0,0,0,0,0
+305,apache,sling-org-apache-sling-servlets-resolver,[193],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,53,0,0,0,0,2,0
+305,apache,sling-org-apache-sling-servlets-resolver,[192],cziegeler,Carsten Ziegeler,cziegeler@apache.org,218,0,0,0,0,0,0
+305,apache,sling-org-apache-sling-servlets-resolver,[196 198],karlpauls,Karl Pauls,pauls@apache.org,74,0,0,0,0,0,0
+345,apache,sling-slingfeature-maven-plugin,[222 227],cziegeler,Carsten Ziegeler,cziegeler@apache.org,348,0,0,0,0,0,1
+345,apache,sling-slingfeature-maven-plugin,[235],darshanmahor24,Darshan Mahor,darshan.mahor@gmail.com,1,0,0,0,0,0,0
+353,apache,commons-compress,[55],XenoAmess,XenoAmess,xenoamess@gmail.com,12,0,0,0,0,0,0
+1,apache,JMeter,[37],eas5,Elvys Soares,eas5@cin.ufpe.br,2,0,0,0,0,1,0
+1,apache,JMeter,[21],keithmork,Keith Mo,keith.mork@gmail.com,1,0,0,0,0,0,0
+1,apache,JMeter,[43],stokpop,Peter Paul Bakker,peter.paul.bakker@stokpop.nl,1,0,0,0,0,1,0
+121,apache,sling-org-apache-sling-distribution-journal,[122],amit-jain,Amit Jain,amitj@apache.org,7,0,0,0,0,7,0
+121,apache,sling-org-apache-sling-distribution-journal,[126],cziegeler,Carsten Ziegeler,cziegeler@apache.org,5,0,0,0,0,1,0
+129,apache,sling-org-apache-sling-event,[135],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,5,0,0,0,0,2,0
+129,apache,sling-org-apache-sling-event,[131],cziegeler,Carsten Ziegeler,cziegeler@apache.org,19,0,0,0,0,7,1
+137,apache,sling-org-apache-sling-feature,[140],cziegeler,Carsten Ziegeler,cziegeler@apache.org,172,0,0,0,0,0,0
+137,apache,sling-org-apache-sling-feature,[142],karlpauls,Karl Pauls,pauls@apache.org,34,0,0,0,0,0,0
+145,apache,sling-org-apache-sling-feature-extension-content,[153],cziegeler,Carsten Ziegeler,cziegeler@apache.org,5,0,0,0,0,0,0
+177,apache,sling-org-apache-sling-installer-factory-feature,[159],cziegeler,Carsten Ziegeler,cziegeler@apache.org,42,0,0,0,0,0,0
+273,apache,sling-org-apache-sling-scripting-core,[173 181],karlpauls,Karl Pauls,pauls@apache.org,41,0,0,0,0,0,0
+297,apache,sling-org-apache-sling-security,[188],cziegeler,Carsten Ziegeler,cziegeler@apache.org,56,0,0,0,0,0,0
+305,apache,sling-org-apache-sling-servlets-resolver,[210],ahmed-musallam,Ahmed Musallam,atyaf66@gmail.com,2,0,0,0,0,0,0
+305,apache,sling-org-apache-sling-servlets-resolver,[193],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,53,0,0,0,0,0,0
+305,apache,sling-org-apache-sling-servlets-resolver,[192],cziegeler,Carsten Ziegeler,cziegeler@apache.org,218,0,0,0,0,0,0
+305,apache,sling-org-apache-sling-servlets-resolver,[196 198],karlpauls,Karl Pauls,pauls@apache.org,74,0,0,0,0,0,0
+345,apache,sling-slingfeature-maven-plugin,[222 227],cziegeler,Carsten Ziegeler,cziegeler@apache.org,348,0,0,0,0,0,1
+345,apache,sling-slingfeature-maven-plugin,[235],darshanmahor24,Darshan Mahor,darshan.mahor@gmail.com,1,0,0,0,0,0,0
+353,apache,commons-compress,[55],XenoAmess,XenoAmess,xenoamess@gmail.com,12,0,0,0,0,0,0

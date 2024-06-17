@@ -1,0 +1,59 @@
+project_id,owner,repo,git_user_id,login,name,email,commit_tot,issue_assigned,issue_created,issue_mentioned,tot_issue_comments,tot_pr_comments,tot_commit_comments
+5,apache,ratis,[152],ChenSammi,Sammi Chen,sammichen@apache.org,15,0,0,0,0,16,0
+5,apache,ratis,[164],OneSizeFitsQuorum,Potato,tanxinyu@apache.org,25,0,0,0,0,44,0
+5,apache,ratis,[135],bharatviswa504,Bharat Viswanadham,bharat@apache.org,3,0,0,0,0,5,0
+5,apache,ratis,[156 158],codings-dan,Yaolong Liu,lylpysz1@163.com,54,0,0,0,0,123,0
+5,apache,ratis,[128],dengziming,dengziming,dengziming1993@gmail.com,1,0,0,0,0,1,0
+5,apache,ratis,[161],kerneltime,Ritesh H Shukla,kerneltime@gmail.com,1,0,0,0,0,1,0
+5,apache,ratis,[117 122],maobaolong,maobaolong,307499405@qq.com,12,0,0,0,0,15,0
+5,apache,ratis,[160],neuyilan,Houliang Qi,neuyilan@163.com,1,0,0,0,0,0,0
+5,apache,ratis,[149],sadanand48,Sadanand Shenoy,sadanand.shenoy4898@gmail.com,2,0,0,0,0,1,0
+13,apache,hop,[60 62],HiromuHota,Hiromu Hota,hiromu.hota@gmail.com,36,0,0,0,0,18,0
+13,apache,hop,[78],jballment,John Ballment,john.ballment@bizcubed.com.au,6,0,0,0,0,0,0
+13,apache,hop,[55 57 76],mattcasters,Matt Casters,mattcasters@gmail.com,1641,51,34,13,0,0,1
+13,apache,hop,[69],mfgaspar,Miguel Gaspar,miguel.ferreira.gaspar@gmail.com,1,0,0,0,0,0,0
+13,apache,hop,[59 68],mookkiah,Mahendran Mookkiah,mahendran.mookkiah@gmail.com,32,0,0,0,0,0,0
+13,apache,hop,[81],sramazzina,Sergio Ramazzina,sergio.ramazzina@serasoft.it,385,102,72,11,0,0,0
+29,apache,openmeetings,[105],CkNoSFeRaTU,Konstantin Kuzov,master.nosferatu@gmail.com,6,0,0,0,0,0,0
+53,apache,sling-org-apache-sling-api,[177],cziegeler,Carsten Ziegeler,cziegeler@apache.org,347,0,0,0,0,0,2
+117,apache,sling-org-apache-sling-distribution-api,[196],amit-jain,Amit Jain,amitj@apache.org,2,0,0,0,0,0,0
+189,apache,sling-org-apache-sling-jcr-base,[203],cziegeler,Carsten Ziegeler,cziegeler@apache.org,106,0,0,0,0,0,0
+253,apache,sling-org-apache-sling-provisioning-model,[215],cziegeler,Carsten Ziegeler,cziegeler@apache.org,78,0,0,0,0,0,0
+285,apache,sling-org-apache-sling-scripting-sightly,[227],cziegeler,Carsten Ziegeler,cziegeler@apache.org,24,0,0,0,0,0,0
+285,apache,sling-org-apache-sling-scripting-sightly,[220],karlpauls,Karl Pauls,pauls@apache.org,6,0,0,0,0,0,0
+301,apache,sling-org-apache-sling-servlets-annotations,[232 234],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,16,0,0,0,0,0,1
+301,apache,sling-org-apache-sling-servlets-annotations,[233],cziegeler,Carsten Ziegeler,cziegeler@apache.org,1,0,0,0,0,0,0
+309,apache,sling-org-apache-sling-starter,[237 238],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,70,0,0,0,0,0,0
+349,apache,sling-whiteboard,[254 264],badvision,Brendan Robert,brendan.robert@gmail.com,8,0,0,0,0,0,0
+349,apache,sling-whiteboard,[256],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,413,0,0,0,0,0,1
+349,apache,sling-whiteboard,[267],cziegeler,Carsten Ziegeler,cziegeler@apache.org,89,0,0,0,0,0,1
+357,apache,commons-statistics,[49],mmalenic,Marko Malenic,mmalenic1@gmail.com,1,0,0,0,0,0,0
+5,apache,ratis,[152],ChenSammi,Sammi Chen,sammichen@apache.org,15,0,0,0,0,16,0
+5,apache,ratis,[164],OneSizeFitsQuorum,Potato,tanxinyu@apache.org,25,0,0,0,0,44,0
+5,apache,ratis,[135],bharatviswa504,Bharat Viswanadham,bharat@apache.org,3,0,0,0,0,5,0
+5,apache,ratis,[156 158],codings-dan,Yaolong Liu,lylpysz1@163.com,54,0,0,0,0,123,0
+5,apache,ratis,[128],dengziming,dengziming,dengziming1993@gmail.com,1,0,0,0,0,1,0
+5,apache,ratis,[161],kerneltime,Ritesh H Shukla,kerneltime@gmail.com,1,0,0,0,0,0,0
+5,apache,ratis,[117 122],maobaolong,maobaolong,307499405@qq.com,12,0,0,0,0,0,0
+5,apache,ratis,[160],neuyilan,Houliang Qi,neuyilan@163.com,1,0,0,0,0,0,0
+5,apache,ratis,[149],sadanand48,Sadanand Shenoy,sadanand.shenoy4898@gmail.com,2,0,0,0,0,0,0
+13,apache,hop,[60 62],HiromuHota,Hiromu Hota,hiromu.hota@gmail.com,36,0,0,0,0,0,0
+13,apache,hop,[78],jballment,John Ballment,john.ballment@bizcubed.com.au,6,0,0,0,0,0,0
+13,apache,hop,[55 57 76],mattcasters,Matt Casters,mattcasters@gmail.com,1641,51,34,13,0,0,1
+13,apache,hop,[69],mfgaspar,Miguel Gaspar,miguel.ferreira.gaspar@gmail.com,1,0,0,0,0,0,0
+13,apache,hop,[59 68],mookkiah,Mahendran Mookkiah,mahendran.mookkiah@gmail.com,32,0,0,0,0,0,0
+13,apache,hop,[81],sramazzina,Sergio Ramazzina,sergio.ramazzina@serasoft.it,385,102,72,11,0,0,0
+29,apache,openmeetings,[105],CkNoSFeRaTU,Konstantin Kuzov,master.nosferatu@gmail.com,6,0,0,0,0,0,0
+53,apache,sling-org-apache-sling-api,[177],cziegeler,Carsten Ziegeler,cziegeler@apache.org,347,0,0,0,0,0,2
+117,apache,sling-org-apache-sling-distribution-api,[196],amit-jain,Amit Jain,amitj@apache.org,2,0,0,0,0,0,0
+189,apache,sling-org-apache-sling-jcr-base,[203],cziegeler,Carsten Ziegeler,cziegeler@apache.org,106,0,0,0,0,0,0
+253,apache,sling-org-apache-sling-provisioning-model,[215],cziegeler,Carsten Ziegeler,cziegeler@apache.org,78,0,0,0,0,0,0
+285,apache,sling-org-apache-sling-scripting-sightly,[227],cziegeler,Carsten Ziegeler,cziegeler@apache.org,24,0,0,0,0,0,0
+285,apache,sling-org-apache-sling-scripting-sightly,[220],karlpauls,Karl Pauls,pauls@apache.org,6,0,0,0,0,1,0
+301,apache,sling-org-apache-sling-servlets-annotations,[232 234],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,16,0,0,0,0,1,1
+301,apache,sling-org-apache-sling-servlets-annotations,[233],cziegeler,Carsten Ziegeler,cziegeler@apache.org,1,0,0,0,0,0,0
+309,apache,sling-org-apache-sling-starter,[237 238],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,70,0,0,0,0,3,0
+349,apache,sling-whiteboard,[254 264],badvision,Brendan Robert,brendan.robert@gmail.com,8,0,0,0,0,3,0
+349,apache,sling-whiteboard,[256],bdelacretaz,Bertrand Delacretaz,bdelacretaz@apache.org,413,0,0,0,0,3,1
+349,apache,sling-whiteboard,[267],cziegeler,Carsten Ziegeler,cziegeler@apache.org,89,0,0,0,0,7,1
+357,apache,commons-statistics,[49],mmalenic,Marko Malenic,mmalenic1@gmail.com,1,0,0,0,0,1,0
